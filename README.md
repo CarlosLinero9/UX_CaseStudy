@@ -73,6 +73,24 @@ Para finalizar, buscamos identificar los problemas de usabilidad a través del u
 ![Método UX](img/Competitive.png) 
 -----
 
+Con la finalidad de llegar al mayor número de clientes posibles, llevamos a cabo una comparativa con dos tipos de cafeterías:
+
+  - "Bombón Café". Se trata de una cafetería situada en el Serrallo Plaza, en Granada. Ofrece una gran variedad de productos. Desde cafés e infusiones hasta tostadas y bollería. URL: 'https://www.perspectives.cafe/'
+
+  - "Coffee 1931". Hablamos de una tienda especializada en la preparación y venta de café de especialidad. Cuentan con una tienda online. URL: 'https://www.coffee1931.com/'
+
+El fin de esta comparativa es dar el negocio a conocer tanto a un público más general como a uno  más específico a través del análisis comparativo de las ventajas y desventajas de ambas propuestas. 
+
+"UN POCO DE TEXTO DE COMPARATIVA GENERAL ENTRE LAS DOS OPCIONES".
+
+Repasamos las principales ventajas de cada una de estas propuestas, valorando el potencial que pueden aportar al objetivo de este proyecto.
+
+1. ... 
+2. ...
+3. ...
+4. ... 
+5. ...
+
 >>> Describe brevemente características de las aplicaciones que tiene asignadas tu grupo. Decidete por una y explica por qué se ha seleccionado. Borra esta línea cuando lo tengas. 
 
 
