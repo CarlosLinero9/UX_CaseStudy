@@ -69,6 +69,8 @@ El principal objetivo de este análisis es aportar una experiencia óptima a cua
 Para llevar a cabo este proyecto, realizamos una serie de comparativas con distintas cafeterías de especialidad tanto de España como del resto del mundo. Plantearemos además varios perfiles ficticios de posibles consumidores con el fin de estudiar como podemos atraer a estos a través de las fortalezas/virtudes de nuestro proyecto. Una vez planteado el público objetivo, trazamos un jouney map que permita ayudarnos a mejorar la experiencia de los usuarios al interactuar con el proyecto.
 Para finalizar, buscamos identificar los problemas de usabilidad a través del usability review.
 
+Aquí el documento UserResearchPlan: [Abrir PDF](./P1/1-UseResearchPlan/User_Research_Plan.pdf)
+
 
 ### 1.b Competitive Analysis
 ![Método UX](img/Competitive.png) 
