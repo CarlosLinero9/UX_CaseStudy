@@ -35,6 +35,8 @@ Miembros y nombre del equipo:
  * :bust_in_silhouette:  Juan Carlos Vílchez Sánchez     :octocat:     
  * :bust_in_silhouette:  Iván García Hernández     :octocat:
 
+ Falta el github.
+
 >>> Los equipos son de 2 personas. Identifícaros con el nombre del Grupo y los enlaces a los perfiles de GitHub de cada integrante
 
 ----- 
@@ -57,8 +59,14 @@ Miembros y nombre del equipo:
 ### 1.a User Reseach Plan
 ![Método UX](img/Competitive.png) 
 -----
+Se ha seleccionado la página web de la cafetería "Despiertoo Speciality Coffee" para la realización del análisis. Hablamos de una de las mejores cafeterías de especialidad de España. Situada en Granada.
 
->>> Describe el plan en tu User Research (cómo se plantea la selección de usuarios). Borra esta línea cuando lo tengas.  
+A pesar de que no tenemos un gusto muy refinado para el café, podemos acercarnos a este tipo de mercado/negocio a través del conocimiento de otras ramas del panorama gastronómico... "Continuar"
+
+El principal objetivo de este análisis es aportar una experiencia óptima a cualquier consumidor del servicio, contribuyendo a la visibilidad del negocio y consecuentemente al aumento de ventas.
+
+Para llevar a cabo este proyecto, realizamos una serie de comparativas con distintas cafeterías de especialidad tanto de España como del resto del mundo. Plantearemos además varios perfiles ficticios de posibles consumidores con el fin de estudiar como podemos atraer a estos a través de las fortalezas/virtudes de nuestro proyecto. Una vez planteado el público objetivo, trazamos un jouney map que permita ayudarnos a mejorar la experiencia de los usuarios al interactuar con el proyecto.
+Para finalizar, buscamos identificar los problemas de usabilidad a través del usability review.
 
 
 ### 1.b Competitive Analysis
