@@ -78,13 +78,14 @@ Aquí el documento UserResearchPlan: [Abrir PDF](./P1/1-UseResearchPlan/User_Res
 
 Con la finalidad de llegar al mayor número de clientes posibles, llevamos a cabo una comparativa con dos tipos de cafeterías:
 
-  - "Bombón Café". Se trata de una cafetería situada en el Serrallo Plaza, en Granada. Ofrece una gran variedad de productos. Desde cafés e infusiones hasta tostadas y bollería. URL: 'https://www.perspectives.cafe/'
+  - "Bombón Café". Se trata de una cafetería situada en Calle Elvira, en Granada. Ofrece una gran variedad de productos. Desde cafés e infusiones hasta tostadas y bollería. URL: 'https://www.perspectives.cafe/'
 
   - "Coffee 1931". Hablamos de una tienda especializada en la preparación y venta de café de especialidad. Cuentan con una tienda online. URL: 'https://www.coffee1931.com/'
 
 El fin de esta comparativa es dar el negocio a conocer tanto a un público más general como a uno  más específico a través del análisis comparativo de las ventajas y desventajas de ambas propuestas. 
 
-"UN POCO DE TEXTO DE COMPARATIVA GENERAL ENTRE LAS DOS OPCIONES".
+<!--Echar un vistazo a esto-->
+El objetivo de esta comparativa es entender qué elementos ayudan a comunicar el negocio a un público amplio (información práctica visible, oferta clara y navegación sencilla) y cuáles refuerzan el atractivo para un público más específico (detalle del producto, contenido, confianza y compra online). En general, la opción más “generalista” destaca por facilitar decisiones rápidas y reducir fricción en tareas básicas, mientras que la opción especializada aporta profundidad de información, sensación de calidad y canales de conversión adicionales. Como conclusión, buscamos combinar ambos enfoques: claridad inmediata para quien decide en segundos y, al mismo tiempo, herramientas y contenido que soporten la exploración y la compra online para usuarios más interesados.
 
 Repasamos las principales ventajas de cada una de estas propuestas, valorando el potencial que pueden aportar al objetivo de este proyecto. Para ello, comparamos las 3 webs valorando de 0 a 3 estrellas los siguientes criterios:
 
