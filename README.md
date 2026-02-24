@@ -78,7 +78,7 @@ Aquí el documento UserResearchPlan: [Abrir PDF](./P1/1-UseResearchPlan/User_Res
 
 Con la finalidad de llegar al mayor número de clientes posibles, llevamos a cabo una comparativa con dos tipos de cafeterías:
 
-  - "Bombón Café". Se trata de una cafetería situada en Calle Elvira, en Granada. Ofrece una gran variedad de productos. Desde cafés e infusiones hasta tostadas y bollería. URL: 'https://www.perspectives.cafe/'
+  - "Perspectives Cafe". Se trata de una cafetería situada en Calle Elvira, en Granada. Ofrece una gran variedad de productos. Desde cafés e infusiones hasta tostadas y bollería. URL: 'https://www.perspectives.cafe/'
 
   - "Coffee 1931". Hablamos de una tienda especializada en la preparación y venta de café de especialidad. Cuentan con una tienda online. URL: 'https://www.coffee1931.com/'
 
