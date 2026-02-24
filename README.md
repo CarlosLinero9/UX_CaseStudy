@@ -136,8 +136,8 @@ Aquí el documento CompetitiveAnalysis: [Abrir PDF](./P1/2-CompetitiveAnalysis/C
 
 Para esta práctica hemos definido dos perfiles distintos, con necesidades y objetivos diferentes. Por un lado, tenemos a Álvaro, un técnico de sonido freelance de 32 años que busca un lugar cercano donde hacer una pausa entre trabajos sin perder tiempo, encontrando rápido la información clave antes de decidir. Por otro lado, Inés es una estudiante de 22 años que quiere desconectar del estrés de la universidad y quedar con amigas en un sitio agradable y cómodo, con la seguridad de saber qué se va a encontrar antes de ir.
 
-![Persona Álvaro](./P1/3-Personas/Alvaro.png)
 ![Persona Inés](./P1/3-Personas/Ines.png) 
+![Persona Álvaro](./P1/3-Personas/Alvaro.png)
 
 
 ### 1.d User Journey Map
@@ -146,6 +146,7 @@ Para esta práctica hemos definido dos perfiles distintos, con necesidades y obj
 Hemos elegido estos dos casos de estudio para evaluar la experiencia de usuario en dos tareas muy habituales relacionadas con la cafetería: encontrar rápidamente la información esencial para decidir ir (horario, ubicación y carta/precios) y planificar una visita para quedar y pasar un rato sin sorpresas (ambiente y opciones disponibles). Queríamos reflejar también las fricciones que aparecen cuando la información no está bien organizada o es difícil de localizar desde el móvil. Lo más destacable es que, si los datos clave no son visibles a primera vista, el usuario pierde tiempo navegando y aumenta la incertidumbre: Álvaro abandona rápido si no puede decidir en segundos, e Inés se siente insegura si no puede confirmar fácilmente horarios, precios y “qué esperar” antes de ir.
 
 ![JourneyMap Inés](./P1/4-UserJourneyMap/User_Journey_Map_Ines.png) 
+![JourneyMap Inés](./P1/4-UserJourneyMap/User_Journey_Map_Alvaro.png) 
 
 
 ### 1.e Usability Review
