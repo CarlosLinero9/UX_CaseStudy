@@ -143,6 +143,9 @@ Para esta práctica hemos definido dos perfiles distintos, con necesidades y obj
 ### 1.d User Journey Map
 ![Método UX](img/JourneyMap.png) 
 ----
+Hemos elegido estos dos casos de estudio para evaluar la experiencia de usuario en dos tareas muy habituales relacionadas con la cafetería: encontrar rápidamente la información esencial para decidir ir (horario, ubicación y carta/precios) y planificar una visita para quedar y pasar un rato sin sorpresas (ambiente y opciones disponibles). Queríamos reflejar también las fricciones que aparecen cuando la información no está bien organizada o es difícil de localizar desde el móvil. Lo más destacable es que, si los datos clave no son visibles a primera vista, el usuario pierde tiempo navegando y aumenta la incertidumbre: Álvaro abandona rápido si no puede decidir en segundos, e Inés se siente insegura si no puede confirmar fácilmente horarios, precios y “qué esperar” antes de ir.
+
+![JourneyMap Inés](./P1/4-UserJourneyMap/User_Journey_Map_Ines.png)
 
 >>> Describe el porqué de las dos experiencias de usuario contadas en el journey map. Por ejemplo, reflexiona si te parece que son habituales. Enlaza con los recursos journey que están en la carpeta P1/. Borra esta linea del template cuando termines.  
 
