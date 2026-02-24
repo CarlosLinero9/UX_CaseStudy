@@ -62,7 +62,7 @@ Miembros y nombre del equipo:
 -----
 Se ha seleccionado la página web de la cafetería "Despiertoo Speciality Coffee" para la realización del análisis. Hablamos de una de las mejores cafeterías de especialidad de España. Situada en Granada.
 
-A pesar de que no tenemos un gusto muy refinado para el café, podemos acercarnos a este tipo de mercado/negocio a través del conocimiento de otras ramas del panorama gastronómico... "Continuar"
+A pesar de que no tenemos un gusto muy refinado para el café, podemos acercarnos a este tipo de mercado/negocio a través del conocimiento de otras ramas del panorama gastronómico y slas posibles similitudes.
 
 El principal objetivo de este análisis es aportar una experiencia óptima a cualquier consumidor del servicio, contribuyendo a la visibilidad del negocio y consecuentemente al aumento de ventas.
 
