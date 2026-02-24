@@ -135,6 +135,7 @@ Aquí el documento CompetitiveAnalysis: [Abrir PDF](./P1/2-CompetitiveAnalysis/C
 -----
 
 Para esta práctica hemos definido dos perfiles distintos, con necesidades y objetivos diferentes. Por un lado, tenemos a Álvaro, un técnico de sonido freelance de 32 años que busca un lugar cercano donde hacer una pausa entre trabajos sin perder tiempo, encontrando rápido la información clave antes de decidir. Por otro lado, Inés es una estudiante de 20 años que quiere desconectar del estrés de la universidad y quedar con amigas en un sitio agradable y cómodo, con la seguridad de saber qué se va a encontrar antes de ir.
+
 ![Persona Álvaro](./P1/3-Personas/Alvaro.png)
 ![Persona Inés](./P1/3-Personas/Ines.png)
 >>> Junto con la captura de pantalla de la ficha de la persona, haz una breve descripción de la misma. Recuerda que son dos. Los recursos de imagen deberán estar dentro de la carpeta P1/ Cuando termines, borra esta línea.  
