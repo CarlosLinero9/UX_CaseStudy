@@ -86,16 +86,49 @@ El fin de esta comparativa es dar el negocio a conocer tanto a un público más 
 
 "UN POCO DE TEXTO DE COMPARATIVA GENERAL ENTRE LAS DOS OPCIONES".
 
-Repasamos las principales ventajas de cada una de estas propuestas, valorando el potencial que pueden aportar al objetivo de este proyecto.
+Repasamos las principales ventajas de cada una de estas propuestas, valorando el potencial que pueden aportar al objetivo de este proyecto. Para ello, comparamos las 3 webs valorando de 0 a 3 estrellas los siguientes criterios:
 
-1. ... 
-2. ...
-3. ...
-4. ... 
-5. ...
+<!-- Echar un ojo -->
+### Criterios usados en el Competitive Analysis
 
->>> Describe brevemente características de las aplicaciones que tiene asignadas tu grupo. Decidete por una y explica por qué se ha seleccionado. Borra esta línea cuando lo tengas. 
+Para comparar el caso principal con los competidores hemos usado criterios agrupados en 4 áreas: **contenido**, **tareas clave**, **confianza** y **calidad técnica**.
 
+**Contenido y propuesta**
+
+- **Vigencia del contenido:** comprobamos si la información relevante está actualizada (agenda de talleres/cursos, novedades, posts recientes) y si se evita contenido “caducado”.
+
+- **Propuesta ampliada:** valoramos si la web apoya el negocio más allá de “estar online” (tienda/venta de productos, talleres/cursos, blog/recursos) y si todo está integrado de forma coherente.
+
+**Descubrimiento y realización de tareas**
+
+- **Encontrabilidad (IA + navegación):** evaluamos si el usuario entiende rápido “qué hay” y “dónde está” (menús, categorías, jerarquía, enlaces claros).
+
+- **Búsqueda y exploración:** revisamos si existe buscador y/o filtros útiles (categorías, precio, más reciente, etc.) para localizar rápido productos o contenidos.
+
+- **Flujo de inscripción (si hay cursos/talleres):** comprobamos si apuntarse es una tarea “principal” con CTAs claros, pasos comprensibles y la información necesaria (fecha, precio, plazas, requisitos).
+
+- **Cuenta y gestión del usuario (si aplica):** valoramos si se puede crear cuenta y si el registro/inicio de sesión es simple (o si al menos el checkout no obliga a fricciones innecesarias).
+
+**Confianza y comunicación**
+
+- **Contacto y ubicación:** verificamos si los canales de contacto son visibles (teléfono, email, formulario) y si la localización se entiende (mapa, indicaciones, horarios).
+
+- **Soporte multilingüe:** valoramos si la web permite cambiar de idioma y si la traducción es consistente en las secciones clave.
+
+- **Señales de confianza y cumplimiento:** comprobamos la visibilidad de aviso legal/privacidad/cookies y, si hay compra online, la sensación de seguridad en el pago (información clara, pasos transparentes).
+
+- **Presencia social y captación:** revisamos si las RRSS están accesibles, funcionan y refuerzan el mensaje (consistencia, enlaces correctos).
+
+**Calidad de experiencia**
+
+- **Rendimiento percibido:** valoramos rapidez de carga y fluidez, especialmente en móvil.
+
+- **Claridad visual e interacción:** evaluamos si la interfaz es fácil de usar (botones distinguibles, estructura clara, consistencia) y si no “confunde” al usuario.
+
+- **Feedback del sistema:** comprobamos si el sitio comunica bien lo que ocurre tras acciones (añadir al carrito, enviar formularios, completar pago) y si hay valoraciones/opiniones cuando tiene sentido.
+
+<!--Falta meter el competitive analysis con FIGMA-->
+Aquí el documento CompetitiveAnalysis: [Abrir PDF](./P1/2-CompetitiveAnalysis/CompetitiveAnalysis.pdf)
 
 ### 1.c Personas
 ![Método UX](img/Persona.png) 
