@@ -92,41 +92,29 @@ Repasamos las principales ventajas de cada una de estas propuestas, valorando el
 <!-- Echar un ojo -->
 ### Criterios usados en el Competitive Analysis
 
-Para comparar el caso principal con los competidores hemos usado criterios agrupados en 4 áreas: **contenido**, **tareas clave**, **confianza** y **calidad técnica**.
+Para comparar el caso principal con los competidores hemos utilizado criterios agrupados en cuatro bloques: **modelo de negocio**, **aspectos tecnológicos**, **funcionalidad y tareas clave**, y **usabilidad/experiencia**.
 
-**Contenido y propuesta**
+#### Business Model
+- **Oferta y propuesta de valor:** evaluamos si la web comunica con claridad qué ofrece el negocio (producto/servicio principal) y qué lo diferencia.
+- **Canales de venta (local + online):** valoramos si integra bien la experiencia presencial con canales digitales (tienda online, reservas, información de local, etc.).
+- **Estrategia de captación (newsletter/CTA):** revisamos si existen llamadas a la acción claras (seguir en redes, suscripción, reserva, compra) y si están bien situadas.
 
-- **Vigencia del contenido:** comprobamos si la información relevante está actualizada (agenda de talleres/cursos, novedades, posts recientes) y si se evita contenido “caducado”.
+#### Technological Issues
+- **Rendimiento y carga en móvil:** comprobamos rapidez percibida y fluidez en navegación móvil, evitando esperas y páginas pesadas.
+- **Confianza legal y privacidad:** verificamos la visibilidad de aviso legal, política de privacidad/cookies y, si hay compra online, señales de pago seguro y condiciones claras.
+- **Soporte de idioma (ES/EN):** valoramos si permite cambiar de idioma y si la traducción es consistente en secciones importantes.
 
-- **Propuesta ampliada:** valoramos si la web apoya el negocio más allá de “estar online” (tienda/venta de productos, talleres/cursos, blog/recursos) y si todo está integrado de forma coherente.
+#### Functionality & Use
+- **Info práctica (horarios/ubicación):** evaluamos si el usuario encuentra fácilmente dirección, horarios, contacto y acceso a mapa/ruta.
+- **Exploración del catálogo (categorías/buscador):** revisamos si es sencillo localizar productos o contenidos mediante categorías, buscador y/o filtros/ordenación.
+- **Compra online y checkout:** comprobamos si el flujo de compra es claro (añadir al carrito, revisar pedido, pago) y si minimiza fricción.
 
-**Descubrimiento y realización de tareas**
+#### Usability
+- **Claridad y escaneabilidad:** valoramos jerarquía visual, legibilidad y que la información clave se encuentre rápido sin exceso de scroll.
+- **Feedback de acciones (carrito/confirmaciones):** revisamos si el sistema confirma acciones importantes (añadir al carrito, envío de formularios, compra) y evita incertidumbre.
+- **Experiencia y ambiente (storytelling/fotos):** analizamos si la web transmite el estilo del lugar y la experiencia mediante fotos, tono y contenido coherente.
 
-- **Encontrabilidad (IA + navegación):** evaluamos si el usuario entiende rápido “qué hay” y “dónde está” (menús, categorías, jerarquía, enlaces claros).
-
-- **Búsqueda y exploración:** revisamos si existe buscador y/o filtros útiles (categorías, precio, más reciente, etc.) para localizar rápido productos o contenidos.
-
-- **Flujo de inscripción (si hay cursos/talleres):** comprobamos si apuntarse es una tarea “principal” con CTAs claros, pasos comprensibles y la información necesaria (fecha, precio, plazas, requisitos).
-
-- **Cuenta y gestión del usuario (si aplica):** valoramos si se puede crear cuenta y si el registro/inicio de sesión es simple (o si al menos el checkout no obliga a fricciones innecesarias).
-
-**Confianza y comunicación**
-
-- **Contacto y ubicación:** verificamos si los canales de contacto son visibles (teléfono, email, formulario) y si la localización se entiende (mapa, indicaciones, horarios).
-
-- **Soporte multilingüe:** valoramos si la web permite cambiar de idioma y si la traducción es consistente en las secciones clave.
-
-- **Señales de confianza y cumplimiento:** comprobamos la visibilidad de aviso legal/privacidad/cookies y, si hay compra online, la sensación de seguridad en el pago (información clara, pasos transparentes).
-
-- **Presencia social y captación:** revisamos si las RRSS están accesibles, funcionan y refuerzan el mensaje (consistencia, enlaces correctos).
-
-**Calidad de experiencia**
-
-- **Rendimiento percibido:** valoramos rapidez de carga y fluidez, especialmente en móvil.
-
-- **Claridad visual e interacción:** evaluamos si la interfaz es fácil de usar (botones distinguibles, estructura clara, consistencia) y si no “confunde” al usuario.
-
-- **Feedback del sistema:** comprobamos si el sitio comunica bien lo que ocurre tras acciones (añadir al carrito, enviar formularios, completar pago) y si hay valoraciones/opiniones cuando tiene sentido.
+![CompetitiveAnalysis](./P1/2-CompetitiveAnalysis/CompetitiveAnalysis.jpg)
 
 <!--Falta meter el competitive analysis con FIGMA-->
 Aquí el documento CompetitiveAnalysis: [Abrir PDF](./P1/2-CompetitiveAnalysis/CompetitiveAnalysis.pdf)
