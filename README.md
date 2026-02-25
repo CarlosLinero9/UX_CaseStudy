@@ -143,6 +143,13 @@ Hemos elegido estos dos casos de estudio para evaluar la experiencia de usuario 
 ### 1.e Usability Review
 ![Método UX](img/usabilityReview.png) 
 ----
+**Valoración numérica obtenida:** 74 – *Good*
+
+**Comentario sobre la revisión:**  
+La puntuación nos parece coherente porque, en general, el sitio permite completar las tareas principales con relativa facilidad (consultar información práctica del local y acceder a la tienda online). Destaca que la **ubicación/horarios y el contacto** están bastante accesibles y que existen **secciones legales** visibles, lo que aporta confianza. Como puntos mejorables, se nota la falta de un **buscador/filtros más potentes** en la tienda, y también que la web es bastante visual, lo que puede requerir más *scroll* y hacer menos “rápida” la búsqueda de información en móvil. Además, sería recomendable reforzar la **ayuda contextual** (FAQ, guía de compra/molienda/envíos) y el **feedback** en acciones clave de compra para reducir incertidumbre.
+
+Aquí el documento UsabilityReview: [Abrir PDF](./P1/5-UsabilityReview/UsabilityReview.pdf)
+
 
 >>>  El objetivo es revisar la usabilidad del competidor seleccionado. Usamos un checklist de verificación. Tras usarlo, subelo a la carpeta P1/ Ofrece aquí un parrafo para:
 >>> - Enlace al documento:  (xls/pdf) 
