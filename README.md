@@ -150,6 +150,33 @@ La puntuación nos parece coherente porque, en general, el sitio permite complet
 
 Aquí el documento UsabilityReview: [Abrir PDF](./P1/5-UsabilityReview/UsabilityReview.pdf)
 
+Como se indicó inicialmente en el Research plan, nuestro objetivo era aumentar la
+visibilidad entre un público más jóven y mejorar la experiencia de usuario.
+
+Para ello, iniciamos haciendo un análisis de competidores con otras dos páginas
+similares. Concluimos que los competidores presentaban mejor estética, actualizaban
+periódicamente sus servicios, ofrecían cursos en fechas actuales y publicaciones recientes
+en sus blogs; contrastando con nuestra página.
+
+Después, valoramos la experiencia de dos perfiles con intereses distintos en el uso de la
+página. Julio, un coleccionista de artesanía interesado en apoyar a pequeños artistas
+locales, quería comprar unas artesanías online pero se encontró con un sistema de compra
+muy confuso. Raquel, una estudiante que buscaba apuntarse a cursos de cerámica para
+desconectar de la universidad, se encontró con un menú inconsistente que le complicó
+encontrar desde dónde apuntarse a los cursos ofrecidos y con un método de inscripción
+poco claro.
+
+Finalizamos con una revisión de usabilidad, donde valoramos algunos aspectos técnicos
+relacionados con las funcionalidades y navegación, entre otros. Concluimos que, aunque la
+página cuente con bastantes elementos y herramientas, algunos aspectos como la
+inconsistencia del menú dificultaron la experiencia.
+
+En conclusión, la página tiene potencial, pero es necesario mejorar la estética, corregir
+botones defectuosos, reorganizar el menú y simplificar el proceso de compra para hacerlo
+más intuitivo.
+
+[Ver Briefing Final](./P1/6-BriefingFinal/BriefingFinal.pdf)
+<br>
 
 ## Paso 2. UX Design  
 
