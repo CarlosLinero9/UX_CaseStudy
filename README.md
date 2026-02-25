@@ -176,7 +176,7 @@ En conclusión, la página tiene potencial, pero es necesario mejorar la estéti
 botones defectuosos, reorganizar el menú y simplificar el proceso de compra para hacerlo
 más intuitivo.
 
-[Ver Briefing Final](./P1/6-BriefingFinal/BriefingFinal.pdf)
+Aquí el documento BriefingFinal: [Ver Briefing Final](./P1/6-BriefingFinal/BriefingFinal.pdf)
 <br>
 
 ## Paso 2. UX Design  
