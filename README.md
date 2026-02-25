@@ -118,6 +118,7 @@ Para comparar el caso principal con los competidores hemos utilizado criterios a
 
 <!--Falta meter el competitive analysis con FIGMA-->
 Aquí el documento CompetitiveAnalysis: [Abrir PDF](./P1/2-CompetitiveAnalysis/CompetitiveAnalysis.pdf)
+
 [Ver Competitive Analysis](./P1/2-CompetitiveAnalysis/CompetitiveAnalysis.jpg)
 
 ### 1.c Personas
