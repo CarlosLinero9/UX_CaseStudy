@@ -150,6 +150,7 @@ La puntuación nos parece coherente porque, en general, el sitio permite complet
 
 Aquí el documento UsabilityReview: [Abrir PDF](./P1/5-UsabilityReview/UsabilityReview.pdf)
 
+### 1.f Briefing Final
 Como se indicó inicialmente en el Research plan, nuestro objetivo era aumentar la
 visibilidad entre un público más jóven y mejorar la experiencia de usuario.
 
