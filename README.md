@@ -35,11 +35,6 @@ Miembros y nombre del equipo:
  * :bust_in_silhouette:  Juan Carlos Vílchez Sánchez.
  GitHub: https://github.com/CarlosLinero9  :octocat:     
  * :bust_in_silhouette:  Iván García Hernández     :octocat:
-
- Falta el github.
-
->>> Los equipos son de 2 personas. Identifícaros con el nombre del Grupo y los enlaces a los perfiles de GitHub de cada integrante
-
 ----- 
 
 <br>
