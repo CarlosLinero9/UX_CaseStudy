@@ -36,7 +36,7 @@ Miembros y nombre del equipo:
  GitHub: https://github.com/CarlosLinero9  :octocat:     
  * :bust_in_silhouette:  Iván García Hernández
  GitHub: https://github.com/ivaangh :octocat:
- 
+
 ----- 
 
 <br>
@@ -50,9 +50,6 @@ Miembros y nombre del equipo:
 <br>
 
 ## Paso 1. UX User & Desk Research & Analisis 
-
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
-
 
 ### 1.a User Reseach Plan
 ![Método UX](img/Competitive.png) 
