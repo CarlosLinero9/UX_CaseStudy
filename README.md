@@ -34,9 +34,6 @@ Logotipo:
 Miembros y nombre del equipo:
  * :bust_in_silhouette:  Juan Carlos Vílchez Sánchez.
  GitHub: https://github.com/CarlosLinero9  :octocat:     
-<<<<<<< HEAD
- * :bust_in_silhouette:  Iván García Hernández     :octocat:
-=======
  * :bust_in_silhouette:  Iván García Hernández
  GitHub: https://github.com/ivaangh :octocat:
 
@@ -44,7 +41,6 @@ Miembros y nombre del equipo:
 
 >>> Los equipos son de 2 personas. Identifícaros con el nombre del Grupo y los enlaces a los perfiles de GitHub de cada integrante
 
->>>>>>> 71b5f65b5b5c88ea6064b2c501ea0b9e4ce2a3c9
 ----- 
 
 <br>
