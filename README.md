@@ -151,8 +151,7 @@ usuario y aumentar su visibilidad entre un público más joven, especial-
 mente en móvil.
 Para ello, comenzamos con un análisis comparativo frente a dos alterna-
 tivas con enfoques distintos: Perspectives (orientada a atraer público general
-con una comunicación clara del local y su ambiente) y Coffee 1931 (más cen-
-trada en el producto y la venta online, con una estructura de tienda más
+con una comunicación clara del local y su ambiente) y Coffee 1931 (más centrada en el producto y la venta online, con una estructura de tienda más
 completa). Este contraste nos permitió identificar buenas prácticas para dos
 necesidades: la decisión rápida de visita (información práctica a primera vista)
 y la exploración/compra online (categorı́as, buscador y confianza en el check-
