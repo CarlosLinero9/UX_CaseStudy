@@ -145,30 +145,15 @@ La puntuación nos parece coherente porque, en general, el sitio permite complet
 Aquí el documento UsabilityReview: [Abrir PDF](./P1/5-UsabilityReview/UsabilityReview.pdf)
 
 ### 1.f Briefing Final
-Como se planteó en el Research Plan, el objetivo de esta práctica ha sido analizar
-la UX de Despiertoo Speciality Coffee para mejorar la experiencia de
-usuario y aumentar su visibilidad entre un público más joven, especial-
-mente en móvil.
-Para ello, comenzamos con un análisis comparativo frente a dos alterna-
-tivas con enfoques distintos: Perspectives (orientada a atraer público general
-con una comunicación clara del local y su ambiente) y Coffee 1931 (más cen-
-trada en el producto y la venta online, con una estructura de tienda más
-completa). Este contraste nos permitió identificar buenas prácticas para dos
-necesidades: la decisión rápida de visita (información práctica a primera vista)
-y la exploración/compra online (categorı́as, buscador y confianza en el check-
-out).
-Después, evaluamos la experiencia desde dos perfiles: Álvaro, que decide
-con prisa y abandona si no encuentra en segundos horario/ubicación/carta o
-si la compra online genera dudas; e Inés, que prioriza seguridad y claridad
-para quedar sin sorpresas. Finalmente, la revisión de usabilidad (74 –
-Good ) confirma que el sitio funciona bien en lo esencial (contacto, horarios,
-confianza legal), pero es mejorable en la exploración de la tienda (falta
-de buscador/filtros), la escaneabilidad en móvil (exceso de scroll ) y el feed-
-back/ayuda contextual (guı́as rápidas, confirmaciones y preguntas frecuentes).
-Como conclusión, el sistema tiene una base sólida y potencial, pero deberı́a re-
-forzar el acceso inmediato a la información clave, mejorar la navegación del
-catálogo y simplificar/clarificar el proceso de compra para reducir incertidum-
-bre y aumentar conversión.
+Como se planteó en el *Research Plan*, el objetivo de esta práctica ha sido analizar la UX de **Despiertoo Speciality Coffee** para mejorar la experiencia de usuario y aumentar su visibilidad entre un público más joven, especialmente en móvil.
+
+Para ello, comenzamos con un análisis comparativo frente a dos alternativas con enfoques distintos: **Perspectives** (orientada a atraer público general con una comunicación clara del local y su ambiente) y **Coffee 1931** (más centrada en el producto y la venta online, con una estructura de tienda más completa). Este contraste nos permitió identificar buenas prácticas para dos necesidades: la decisión rápida de visita (información práctica a primera vista) y la exploración/compra online (categorías, buscador y confianza en el *checkout*).
+
+Después, evaluamos la experiencia desde dos perfiles: **Álvaro**, que decide con prisa y abandona si no encuentra en segundos horario, ubicación o carta, o si la compra online genera dudas; e **Inés**, que prioriza seguridad y claridad para quedar sin sorpresas.
+
+Finalmente, la revisión de usabilidad (**74 – Good**) confirma que el sitio funciona bien en lo esencial (contacto, horarios, confianza legal), pero es mejorable en la exploración de la tienda (falta de buscador/filtros), la escaneabilidad en móvil (exceso de *scroll*) y el *feedback*/ayuda contextual (guías rápidas, confirmaciones y preguntas frecuentes).
+
+Como conclusión, el sistema tiene una base sólida y potencial, pero debería reforzar el acceso inmediato a la información clave, mejorar la navegación del catálogo y simplificar/clarificar el proceso de compra para reducir incertidumbre y aumentar conversión.
 
 Aquí el documento BriefingFinal: [Ver Briefing Final](./P1/6-BriefingFinal/BriefingFinal.pdf)
 <br>
