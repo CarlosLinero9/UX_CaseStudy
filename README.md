@@ -63,6 +63,8 @@ El principal objetivo de este análisis es aportar una experiencia óptima a cua
 Para llevar a cabo este proyecto, realizamos una serie de comparativas con distintas cafeterías de especialidad tanto de España como del resto del mundo. Plantearemos además varios perfiles ficticios de posibles consumidores con el fin de estudiar como podemos atraer a estos a través de las fortalezas/virtudes de nuestro proyecto. Una vez planteado el público objetivo, trazamos un jouney map que permita ayudarnos a mejorar la experiencia de los usuarios al interactuar con el proyecto.
 Para finalizar, buscamos identificar los problemas de usabilidad a través del usability review.
 
+<!-- cualitativo o cuantitativo, necesitamos personas reales o basta con imaginarias y cosas que necesitemos para hacer todo este análisis -->
+
 Aquí el documento UserResearchPlan: [Abrir PDF](./P1/1-UseResearchPlan/User_Research_Plan.pdf)
 
 
@@ -171,9 +173,9 @@ Tras comparar distintas referencias, observamos que la competencia suele resolve
 ![Feedback Capture Grid](./P2/1-FeedBackCaptureGrid/FeedBackCaptureGrid.png) 
 
 #### Problema e Hipótesis
-La experiencia digital actual comunica bien la identidad de la cafetería, pero no facilita de forma suficientemente rápida y clara las dos tareas principales del usuario: decidir una visita al local y explorar/comprar café online con seguridad, especialmente desde el móvil. Cuando la información práctica no aparece de inmediato o la tienda exige demasiado esfuerzo de exploración, aumenta la incertidumbre y disminuye la eficiencia de uso.
+La experiencia digital actual comunica bien la identidad de la cafetería, pero no facilita de forma suficientemente rápida y clara las dos tareas principales del usuario: decidir una visita al local y explorar/comprar café online con seguridad y garantizando una decisión informada, especialmente desde el móvil. Cuando la información práctica no aparece de inmediato o la tienda exige demasiado esfuerzo de exploración, aumenta la incertidumbre y disminuyen la confianza del usuario y la eficiencia de uso.
 
-Nuestra hipótesis de diseño plantea que, si desarrollamos una experiencia mobile-first que priorice desde la primera pantalla la información práctica del local —como horario, ubicación, carta y ambiente— y que además simplifique la exploración del catálogo mediante filtros, ayuda contextual y mejor feedback en las acciones de compra, los usuarios podrán tomar decisiones más rápidas, comprender mejor la oferta y completar sus objetivos con mayor confianza y menos fricción. A partir de esta idea, la propuesta de valor de nuestro nuevo diseño consiste en crear una plataforma digital para una cafetería de especialidad que integre en una sola experiencia la decisión rápida de visita al local y la compra guiada de café, ofreciendo una navegación clara, útil y accesible tanto para usuarios expertos como para quienes se están iniciando en este tipo de producto.
+Nuestra hipótesis de diseño plantea que, si desarrollamos una experiencia mobile-first que priorice desde la primera pantalla la información práctica del local —como horario, ubicación, carta y ambiente— y que además simplifique la exploración del catálogo mediante filtros, ayuda contextual, más detalles de cada producto (para los más expertos) y mejor feedback en las acciones de compra, los usuarios podrán tomar decisiones más rápidas, comprender mejor la oferta y completar sus objetivos con mayor confianza y menos fricción. A partir de esta idea, la propuesta de valor de nuestro nuevo diseño consiste en crear una plataforma digital para una cafetería de especialidad que integre en una sola experiencia la decisión rápida de visita al local y la compra guiada de café, ofreciendo una navegación clara, útil y accesible tanto para usuarios expertos como para quienes se están iniciando en este tipo de producto.
 
 Aquí el FeedBackCaptureGrid: [FeedBack Capture Grid](./P2/1-FeedBackCaptureGrid/FeedBackCaptureGrid.pdf)
 
