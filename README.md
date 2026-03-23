@@ -175,7 +175,7 @@ La experiencia digital actual comunica bien la identidad de la cafetería, pero 
 
 Nuestra hipótesis de diseño plantea que, si desarrollamos una experiencia mobile-first que priorice desde la primera pantalla la información práctica del local —como horario, ubicación, carta y ambiente— y que además simplifique la exploración del catálogo mediante filtros, ayuda contextual y mejor feedback en las acciones de compra, los usuarios podrán tomar decisiones más rápidas, comprender mejor la oferta y completar sus objetivos con mayor confianza y menos fricción. A partir de esta idea, la propuesta de valor de nuestro nuevo diseño consiste en crear una plataforma digital para una cafetería de especialidad que integre en una sola experiencia la decisión rápida de visita al local y la compra guiada de café, ofreciendo una navegación clara, útil y accesible tanto para usuarios expertos como para quienes se están iniciando en este tipo de producto.
 
-Aquí el FeedBackCaptureGrid: [FeedBack Capture Grid](./P2/1-FeedBackCaptureGrid/FeedBackCaptureGrid.pdf)
+Aquí el FeedBackCaptureGrid: [FeedBack Capture Grid](./P2/1-FeedBackCaptureGrid/FeedBackCaptureGrid.png)
 
 
 ### 2.b ScopeCanvas
