@@ -56,12 +56,16 @@ Miembros y nombre del equipo:
 -----
 Se ha seleccionado la página web de la cafetería "Despiertoo Speciality Coffee" para la realización del análisis. Hablamos de una de las mejores cafeterías de especialidad de España. Situada en Granada.
 
-A pesar de que no tenemos un gusto muy refinado para el café, podemos acercarnos a este tipo de mercado/negocio a través del conocimiento de otras ramas del panorama gastronómico y slas posibles similitudes.
+A pesar de que no tenemos un gusto muy refinado para el café, podemos acercarnos a este tipo de mercado/negocio a través del conocimiento de otras ramas del panorama gastronómico y las posibles similitudes que puedan presentar con el caso estudiado.
 
 El principal objetivo de este análisis es aportar una experiencia óptima a cualquier consumidor del servicio, contribuyendo a la visibilidad del negocio y consecuentemente al aumento de ventas.
 
-Para llevar a cabo este proyecto, realizamos una serie de comparativas con distintas cafeterías de especialidad tanto de España como del resto del mundo. Plantearemos además varios perfiles ficticios de posibles consumidores con el fin de estudiar como podemos atraer a estos a través de las fortalezas/virtudes de nuestro proyecto. Una vez planteado el público objetivo, trazamos un jouney map que permita ayudarnos a mejorar la experiencia de los usuarios al interactuar con el proyecto.
-Para finalizar, buscamos identificar los problemas de usabilidad a través del usability review.
+<!-- VERSIÓN CORREGIDA -->
+Para llevar a cabo este proyecto, planteamos una investigación de usuarios con un enfoque principalmente cualitativo, pues nos interesa centrarnos en entender los comportamientos, las motivaciones y las posibles frustracioines que los consumidores de café, tanto expertos como inexpertos, puedan experimentar al decidir probar una cafetería con café de especialidad. Por este motivo, vamos a trabajar con personas imaginarias basadas en características reales que puedan darse en locales de este tipo, como es el caso de Despiertoo. Optaremos por explorar un caso de una persona más que el café busca una experiencia nueva y buen ambiente, mientras que el otro caso será el de una persona experta que busque disfrutar, teniendo ya conocimientos del tema, del café de especialidad. En uno de estos casos, trataremos también de estudiar la viabilidad del sitio para una persona con cierto grado de discapacidad visual, para ampliar nuestro enfoque y ver cómo llevar esta experiencia a todo el público, haciéndola lo más cómoda posible.
+
+<!-- VERSIÓN ERRÓNEA -->
+<!-- Para llevar a cabo este proyecto, realizamos una serie de comparativas con distintas cafeterías de especialidad tanto de España como del resto del mundo. Plantearemos además varios perfiles ficticios de posibles consumidores con el fin de estudiar como podemos atraer a estos a través de las fortalezas/virtudes de nuestro proyecto. Una vez planteado el público objetivo, trazamos un jouney map que permita ayudarnos a mejorar la experiencia de los usuarios al interactuar con el proyecto.
+Para finalizar, buscamos identificar los problemas de usabilidad a través del usability review. -->
 
 <!-- cualitativo o cuantitativo, necesitamos personas reales o basta con imaginarias y cosas que necesitemos para hacer todo este análisis -->
 
