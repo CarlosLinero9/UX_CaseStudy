@@ -206,8 +206,6 @@ De este modo, el nuevo diseño no solo mejora la rapidez de acceso a la informac
 ![Método UX](img/Sitemap.png) 
 -----
 
->>> Definir "User Map" y "Task Flow" ... enlazar desde P2/ y describir brevemente
-
 Hemos definido dos user flows principales a partir de las tareas más relevantes detectadas en la práctica 1. El primero representa el recorrido del usuario que necesita decidir rápidamente si visitar la cafetería, consultando información esencial como horario, ubicación, carta, precios y ambiente. El segundo muestra el flujo de exploración y compra de café online, incluyendo búsqueda o filtrado de productos, consulta de ayuda contextual y proceso de compra. Ambos flujos están orientados a reducir la incertidumbre, mejorar la navegación móvil y facilitar las acciones clave del usuario.
 
 ![UserFlow1](./P2/3-UserFlows/UserFlows1.png)
@@ -257,9 +255,6 @@ Las categorías empleadas son:
 ### 2.c IA: Sitemap + Labelling 
 ![Método UX](img/labelling.png) 
 ----
-
->>> Identificar términos para diálogo con usuario (evita el spanglish) y la arquitectura de la información. Es muy apropiado un diagrama tipo sitemap y una tabla que se ampliaría para llevar asociado la columna iconos (tanto para la web como para una app). 
-
 
 
 #### Sitemap
