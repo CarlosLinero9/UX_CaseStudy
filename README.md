@@ -351,20 +351,18 @@ Aquí una imagen de todos los apartados anteriores:
 
 ## Paso 3. Mi UX-Case Study (diseño)
 
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
-
-
 ### 3.a Moodboard
 ![Método UX](img/moodboard.png)
 -----
 
 #### Moodboard:
-![Moodboard](P3/1-Moodboard/Moodboard.png) 
+<img src="P3/1-Moodboard/Moodboard.png" width="1000" height="900">
 
 #### Logos:
-![Logo_1](P3/1-Moodboard/Logo_1.png) 
-![Logo_2](P3/1-Moodboard/Logo_2.png) 
-![Logo_3](P3/1-Moodboard/Logo_3.png) 
+
+<img src="P3/1-Moodboard/Logo_1.png" width="300" height="200">
+<img src="P3/1-Moodboard/Logo_2.png" width="300" height="200">
+<img src="P3/1-Moodboard/Logo_3.png" width="300" height="200">
 
 Para la elaboración del moodboard se ha utilizado Figma/FigJam, ya que permite organizar de forma visual la paleta, tipografías, logotipo e imágenes de referencia en un mismo espacio de trabajo.
 
