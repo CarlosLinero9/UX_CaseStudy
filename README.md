@@ -356,13 +356,13 @@ Aquí una imagen de todos los apartados anteriores:
 -----
 
 #### Moodboard:
-<img src="P3/1-Moodboard/Moodboard.png" width="1000" height="900">
+<img src="P3/1-Moodboard/Moodboard.png" width="3000" height="2700">
 
 #### Logos:
 
-<img src="P3/1-Moodboard/Logo_1.png" width="300" height="200">
-<img src="P3/1-Moodboard/Logo_2.png" width="300" height="200">
-<img src="P3/1-Moodboard/Logo_3.png" width="300" height="200">
+<img src="P3/1-Moodboard/Logo_1.png" width="900" height="600">
+<img src="P3/1-Moodboard/Logo_2.png" width="900" height="600">
+<img src="P3/1-Moodboard/Logo_3.png" width="900" height="600">
 
 Para la elaboración del moodboard se ha utilizado Figma/FigJam, ya que permite organizar de forma visual la paleta, tipografías, logotipo e imágenes de referencia en un mismo espacio de trabajo.
 
