@@ -219,36 +219,45 @@ Para consultar el pdf de los User Flow:
 
 
 #### User Task Matrix
-Hemos valorado las tareas según la prioridad o relevancia para los distintos tipos de usuario. 
+Hemos valorado las tareas según la prioridad o relevancia para los distintos tipos de usuario, tomando como referencia los dos flujos principales del sistema: **explorar locales y realizar una reserva** y **buscar/comprar productos en la tienda online**.
+
 Las categorías empleadas son:
 
-- Alta: tarea principal para ese tipo de usuario.
-- Media: tarea secundaria o de apoyo.
-- Baja: tarea ocasional o poco frecuente.
-- - : no tiene acceso a esa funcionalidad.
+- **Alta**: tarea principal para ese tipo de usuario.
+- **Media**: tarea secundaria o de apoyo.
+- **Baja**: tarea ocasional o poco frecuente.
+- **-**: no tiene acceso a esa funcionalidad.
 
 | Tarea | Usuarios no registrados | Usuarios registrados | Administrador |
 |-------|--------------------------|----------------------|---------------|
-| Iniciar sesión | - | Alta | Alta |
+| Iniciar sesión | Media | Alta | Alta |
 | Cerrar sesión | - | Media | Alta |
 | Registrarse | Alta | - | - |
-| Consultar horario y ubicación | Alta | Alta | Media |
-| Ver carta | Alta | Alta | Media |
+| Explorar locales / mapa | Alta | Alta | Media |
 | Ver ficha del local | Alta | Alta | Media |
+| Ver carta completa | Alta | Alta | Media |
+| Ver cómo llegar | Alta | Alta | Media |
+| Reservar mesa | Media | Alta | Media |
+| Rellenar formulario de reserva | Media | Alta | Baja |
+| Ver confirmación de reserva | Media | Alta | Baja |
+| Acceder a la tienda | Alta | Alta | Media |
 | Buscar producto | Alta | Alta | Media |
-| Filtrar productos | Alta | Alta | Media |
+| Aplicar filtros | Alta | Alta | Media |
+| Cambiar filtros / ver recomendaciones | Media | Media | Baja |
 | Ver ficha de producto | Alta | Alta | Media |
-| Ver guía de compra | Alta | Alta | Baja |
-| Añadir al carrito | - | Alta | Baja |
-| Ir al carrito | - | Alta | Baja |
-| Finalizar compra | - | Alta | Baja |
-| Elegir envío o recogida | - | Alta | Baja |
-| Cancelar compra | - | Media | Baja |
+| Consultar guía de compra | Media | Media | Baja |
+| Añadir al carrito | Media | Alta | Baja |
+| Ir al carrito | Media | Alta | Baja |
+| Finalizar compra | Baja | Alta | Baja |
+| Elegir envío o recogida | Baja | Alta | Baja |
+| Realizar pago | Baja | Alta | Baja |
+| Ver confirmación de pedido | Baja | Alta | Baja |
 | Editar perfil | - | Alta | Alta |
 | Ver historial de pedidos | - | Alta | Alta |
 | Gestionar productos | - | - | Alta |
 | Gestionar pedidos | - | - | Alta |
-| Actualizar horarios/locales | - | - | Alta |
+| Gestionar reservas | - | - | Alta |
+| Actualizar locales / horarios / carta | - | - | Alta |
  
 
 
