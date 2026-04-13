@@ -3,7 +3,7 @@
 - [Moodboard (diseño visual + logotipo)](./1-Moodboard/Moodboard.png)   
 - [Landing Page](./2-LandingPage/Landing_Page.png)
 - [Mockup: LAYOUT HI-FI](./3-Guidelines/Guideline.pdf)
-- [Publicación del Case Study](https://github.com/CarlosLinero9/UX_CaseStudy)
+- [Publicación del Case Study](https://github.com/CarlosLinero9/UX_CaseStudy/tree/main)
 
 ## Conclusiones
 
