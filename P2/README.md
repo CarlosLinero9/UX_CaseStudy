@@ -19,7 +19,7 @@
 
 ### Prototipo Lo-FI Wireframe 
 * [Wireframe general](./5-Wireframe/Wireframe.png)
-* [Boceto (JPG)](./5-Wireframe/boceto.jpeg)
+* [Boceto (JPG)](./5-Wireframe/boceto.png)
 * [Boceto (PDF)](./5-Wireframe/boceto.pdf)
 * [Pantalla principal](./5-Wireframe/main.png)
 * [Carta](./5-Wireframe/carta.png)
