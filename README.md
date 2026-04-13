@@ -355,71 +355,25 @@ Aquí una imagen de todos los apartados anteriores:
 ![Método UX](img/moodboard.png)
 -----
 
-#### Moodboard:
-![Moodboard](P3/1-Moodboard/Moodboard.png) 
-
-#### Logos:
-
-<img src="P3/1-Moodboard/Logo_1.png" width="600" height="400">
-<img src="P3/1-Moodboard/Logo_2.png" width="600" height="400">
-<img src="P3/1-Moodboard/Logo_3.png" width="600" height="400">
-
-Para la elaboración del moodboard se ha utilizado Figma/FigJam, ya que permite organizar de forma visual la paleta, tipografías, logotipo e imágenes de referencia en un mismo espacio de trabajo.
-
-El logotipo sí puede reutilizarse en redes sociales como Instagram, por ejemplo en la imagen de perfil o en publicaciones, siempre que se exporte en un formato y tamaño apropiados.
-
 
 ### 3.b Landing Page
 ![Método UX](img/landing-page.png) 
 ----
 
-![Landing Page](P3/2-LandingPage/Landing_Page.png) 
 
 ### 3.c Guidelines
 ![Método UX](img/guidelines.png) 
 ----
 
-Para esta fase se han revisado referencias de interfaces relacionadas con descubrimiento de locales, restauración y ecommerce, con el objetivo de identificar patrones de interfaz útiles para el prototipado posterior de **Punto Café**. A partir de este análisis se han seleccionado aquellos patrones que mejor responden a las necesidades detectadas en fases previas: encontrar cafeterías con rapidez, consultar información útil de un vistazo y explorar productos de forma clara.
-
-Los patrones IU elegidos para la siguiente fase de prototipado son los siguientes:
-
-- **Header superior fijo**: permite mantener visible la identidad de marca y accesos rápidos como menú, perfil o carrito.
-- **Hero o bloque principal de bienvenida**: se utilizará en la landing para comunicar la propuesta de valor de forma inmediata.
-- **Tarjetas de contenido (cards)**: patrón principal para mostrar cafeterías, espacios recomendados y productos de tienda de manera visual y ordenada.
-- **Barra de búsqueda y filtros/chips**: facilita localizar cafeterías o productos rápidamente y reduce el esfuerzo de exploración.
-- **Vistas de detalle con CTA claro**: cada cafetería o producto contará con una ficha con información priorizada y una acción principal visible.
-- **Botones primarios y secundarios**: servirán para marcar jerarquía entre acciones principales como explorar, guardar o añadir al carrito.
-- **Footer o navegación secundaria**: ofrecerá acceso a apartados generales y enlaces de apoyo.
-
-Estas decisiones se han tomado para construir una interfaz cálida, clara y funcional, coherente con la identidad de **Punto Café** y preparada para la fase siguiente de mockup y prototipado hi-fi.
-
-![Landing](P3/3-Guidelines/landing.png)
-![Carrito](P3/3-Guidelines/carrito.png)
-![Guia](P3/3-Guidelines/guia.png)
-![Tienda](P3/3-Guidelines/tienda.png)
-![Carta](P3/3-Guidelines/carta.png)
-![Usuario](P3/3-Guidelines/usuario.png)
-![Contacto](P3/3-Guidelines/contacto.png)
-![Locales](P3/3-Guidelines/locales.png)
-
-Consulta el guideline aquí: [Guideline](./P3/3-Guidelines/Guideline.pdf)
 
 ### 3.d Mockup
 ![Método UX](img/mockup.png) 
 ----
 
-En esta fase se ha desarrollado una primera versión navegable de la propuesta mediante **wireframes interactivos en Figma**. El objetivo de estos wireframes ha sido definir la estructura general de la aplicación, organizar las pantallas principales y comprobar que los flujos de navegación resultan claros antes de seguir refinando el diseño final.
-
-A través del prototipo se pueden simular las tareas más importantes del sistema, como **explorar locales**, **consultar la carta**, **acceder a la tienda**, **revisar el carrito** y navegar por secciones de apoyo como **contacto**, **guía de compra** o **perfil de usuario**. De este modo, los wireframes nos han permitido validar la arquitectura de la información y la relación entre pantallas de una forma sencilla y visual.
-
-- **Enlace al wireframe interactivo en Figma:** [Ver wireframe interactivo](https://www.figma.com/proto/iNqxQcrCXX9UDkxbkkWM1R/HiFi?node-id=20-639&p=f&t=EJwijo2YI3kq6nRd-1&scaling=scale-down&content-scaling=fixed&page-id=20%3A339&starting-point-node-id=20%3A639)
 
 ### 3.e My UX-Case Study
 ![Método UX](img/caseStudy.png) 
 -----
-Consultar nuestro Case Study [aquí](https://github.com/CarlosLinero9/UX_CaseStudy/tree/main)
-
-<br>
 
 ## Paso 4. Pruebas de Evaluación 
 
