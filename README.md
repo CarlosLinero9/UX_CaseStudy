@@ -327,24 +327,24 @@ Los wireframes recogen las vistas principales del proyecto, entre ellas la panta
 
 
 #### Pantalla Principal
-![Pantalla Principal](./P2/5-Wireframe/main.png)
+<!-- ![Pantalla Principal](./P2/5-Wireframe/main.png) -->
 
 #### Carta
-![Carta](./P2/5-Wireframe/carta.png)
+<!-- ![Carta](./P2/5-Wireframe/carta.png) -->
 
 #### Tienda y carrito
-![Tienda](./P2/5-Wireframe/Tienda.png)
-![Carrito](./P2/5-Wireframe/carrito.png)
+<!-- ![Tienda](./P2/5-Wireframe/Tienda.png) -->
+<!-- ![Carrito](./P2/5-Wireframe/carrito.png) -->
 
 #### Perfil
-![FAQ](./P2/5-Wireframe/MiCuenta.png)
+<!-- ![FAQ](./P2/5-Wireframe/MiCuenta.png) -->
 
 #### Contacto, información y FAQ
-![Contacto](./P2/5-Wireframe/contacto.png)
-![FAQ](./P2/5-Wireframe/FAQ.png)
+<!-- ![Contacto](./P2/5-Wireframe/contacto.png) -->
+<!-- ![FAQ](./P2/5-Wireframe/FAQ.png) -->
 
-Aquí una imagen de todos los apartados anteriores:
-![Wireframes](./P2/5-Wireframe/Wireframe.png)
+<!-- Aquí una imagen de todos los apartados anteriores: -->
+<!-- ![Wireframes](./P2/5-Wireframe/Wireframe.png) -->
 
 
 <br>

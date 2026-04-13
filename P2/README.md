@@ -18,16 +18,16 @@
 * [Sitemap (PDF)](./4-Sitemap/Sitemap.pdf)
 
 ### Prototipo Lo-FI Wireframe 
-* [Wireframe general](./5-Wireframe/Wireframe.png)
+<!-- * [Wireframe general](./5-Wireframe/Wireframe.png) -->
 * [Boceto (JPG)](./5-Wireframe/boceto.png)
 * [Boceto (PDF)](./5-Wireframe/boceto.pdf)
-* [Pantalla principal](./5-Wireframe/main.png)
-* [Carta](./5-Wireframe/carta.png)
-* [Tienda](./5-Wireframe/Tienda.png)
-* [Carrito](./5-Wireframe/carrito.png)
-* [Mi cuenta](./5-Wireframe/MiCuenta.png)
-* [Contacto](./5-Wireframe/contacto.png)
-* [FAQ](./5-Wireframe/FAQ.png)
+<!-- * [Pantalla principal](./5-Wireframe/main.png) -->
+<!--* [Carta](./5-Wireframe/carta.png) -->
+<!-- * [Tienda](./5-Wireframe/Tienda.png) -->
+<!-- * [Carrito](./5-Wireframe/carrito.png) -->
+<!-- * [Mi cuenta](./5-Wireframe/MiCuenta.png) -->
+<!-- * [Contacto](./5-Wireframe/contacto.png) -->
+<!-- * [FAQ](./5-Wireframe/FAQ.png) -->
 
 ### Conclusiones  
 En esta práctica hemos transformado los hallazgos del análisis previo en una propuesta de diseño centrada en el usuario. A través de la ideación, los flujos de usuario, la arquitectura de la información y los wireframes, hemos definido una experiencia más clara y estructurada para una cafetería de especialidad, integrando la consulta del local y la compra online en un mismo sistema.
