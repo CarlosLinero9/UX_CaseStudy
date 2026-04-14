@@ -320,7 +320,8 @@ En una primera fase, las ideas se plantearon de forma esquemática a partir de b
 Los wireframes recogen las vistas principales del proyecto, entre ellas la pantalla de locales, la carta, la tienda, la sección informativa sobre el café, el área de cuenta personal, el carrito y el apartado de contacto. Todas estas pantallas se han diseñado para facilitar la navegación del usuario, ofrecer una estructura comprensible y responder de forma clara a las necesidades detectadas durante las fases previas del análisis.
 
 #### Bocetos
-![Bocetos](./P2/5-Wireframe/boceto.png)
+![Bocetos1](./P2/5-Wireframe/boceto_1.png)
+![Bocetos2](./P2/5-Wireframe/boceto_2.png)
 
  Consulta el boceto aquí: [Boceto](./P2/5-Wireframe/boceto.pdf)
 
