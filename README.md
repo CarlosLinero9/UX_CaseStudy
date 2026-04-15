@@ -342,7 +342,6 @@ Los wireframes recogen las vistas principales del proyecto, entre ellas la panta
 ![Direcciones](./P2/5-Wireframe/wireframe/Direcciones.png)
 ![Pago](./P2/5-Wireframe/wireframe/Pago.png)
 
-#### Wireframe general
 [Wireframe (PNG)](./P2/5-Wireframe/wireframe/WireFrame.png)
 
 
