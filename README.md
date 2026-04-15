@@ -320,31 +320,29 @@ En una primera fase, las ideas se plantearon de forma esquemática a partir de b
 Los wireframes recogen las vistas principales del proyecto, entre ellas la pantalla de locales, la carta, la tienda, la sección informativa sobre el café, el área de cuenta personal, el carrito y el apartado de contacto. Todas estas pantallas se han diseñado para facilitar la navegación del usuario, ofrecer una estructura comprensible y responder de forma clara a las necesidades detectadas durante las fases previas del análisis.
 
 #### Bocetos
-![Bocetos1](./P2/5-Wireframe/boceto_1.png)
-![Bocetos2](./P2/5-Wireframe/boceto_2.png)
-
- Consulta el boceto aquí: [Boceto](./P2/5-Wireframe/boceto.pdf)
-
-
+- ![Boceto 1](./P2/5-Wireframe/bocetos/png/boceto_1.png)
+- ![Boceto 2](./P2/5-Wireframe/bocetos/png/boceto_2.png)
+- [Boceto (PDF)](./P2/5-Wireframe/bocetos/pdf/boceto.pdf)
 
 #### Pantalla Principal
-<!-- ![Pantalla Principal](./P2/5-Wireframe/main.png) -->
+- ![Inicio](./P2/5-Wireframe/wireframe/inicio.png)
 
-#### Locales
-<!-- ![Locales](./P2/5-Wireframe/locales.png) -->
-
-#### Carta
-<!-- ![Carta](./P2/5-Wireframe/carta.png) -->
+#### Información de un café
+- ![Información café](./P2/5-Wireframe/wireframe/info_cafe.png)
 
 #### Tienda y carrito
-<!-- ![Tienda](./P2/5-Wireframe/Tienda.png) -->
-<!-- ![Carrito](./P2/5-Wireframe/carrito.png) -->
+- ![Tienda](./P2/5-Wireframe/wireframe/Tienda.png)
+- ![Filtros](./P2/5-Wireframe/wireframe/Filtros.png)
+- ![Carrito](./P2/5-Wireframe/wireframe/Carrito.png)
 
 #### Perfil
-<!-- ![Perfil](./P2/5-Wireframe/MiCuenta.png) -->
+- ![Cuenta](./P2/5-Wireframe/wireframe/Cuenta.png)
+- ![Pedidos](./P2/5-Wireframe/wireframe/Pedidos.png)
+- ![Direcciones](./P2/5-Wireframe/wireframe/Direcciones.png)
+- ![Pago](./P2/5-Wireframe/wireframe/Pago.png)
 
-<!-- Aquí una imagen de todos los apartados anteriores: -->
-<!-- ![Wireframes](./P2/5-Wireframe/Wireframe.png) -->
+#### Wireframe general
+- ![Wireframe (Conjunto)](./P2/5-Wireframe/wireframe/WireFrame.png)
 
 
 <br>
