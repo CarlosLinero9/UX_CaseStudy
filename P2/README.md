@@ -32,7 +32,7 @@
 * [Carrito](./5-Wireframe/wireframe/Carrito.png)
 * [Pago](./5-Wireframe/wireframe/Pago.png)
 * [Cuenta](./5-Wireframe/wireframe/Cuenta.png)
-* [MiCuenta](./P2/5-Wireframe/wireframe/Modificar.png)
+* [MiCuenta](./5-Wireframe/wireframe/Modificar.png)
 * [Pedidos](./5-Wireframe/wireframe/Pedidos.png)
 * [Direcciones](./5-Wireframe/wireframe/Direcciones.png)
 
