@@ -322,6 +322,7 @@ Los wireframes recogen las vistas principales del proyecto, entre ellas la panta
 #### Bocetos
 ![Boceto 1](./P2/5-Wireframe/bocetos/png/boceto_1.png)
 ![Boceto 2](./P2/5-Wireframe/bocetos/png/boceto_2.png)
+
 [Boceto (PDF)](./P2/5-Wireframe/bocetos/pdf/boceto.pdf)
 
 #### Pantalla Principal
