@@ -378,6 +378,8 @@ El logotipo sí puede reutilizarse en redes sociales como Instagram, por ejemplo
 ![Método UX](img/guidelines.png) 
 ----
 
+<!--
+
 En esta fase se han definido una serie de **guidelines de interfaz** a partir de los wireframes y mockups desarrollados para **Punto Café**, con el objetivo de mantener una experiencia visual coherente, sencilla y centrada en las tareas principales detectadas en fases anteriores: **descubrir locales**, **consultar información útil del establecimiento** y **comprar productos online** de forma clara y guiada.
 
 A partir de los diseños realizados, se han consolidado los siguientes patrones de interfaz:
@@ -406,7 +408,7 @@ A partir de los diseños realizados, se han consolidado los siguientes patrones 
 
 En conjunto, estas guidelines permiten construir una interfaz mobile-first coherente con la propuesta de valor de **Punto Café**: una experiencia clara, cercana y funcional que une en un mismo sistema la consulta de locales, la exploración de productos y la compra online guiada.
 
-<!-- #### Pantallas principales del guideline
+#### Pantallas principales del guideline
 
 ##### Inicio
 ![Inicio](P3/3-Guidelines/inicio.png)
