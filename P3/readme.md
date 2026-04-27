@@ -1,11 +1,12 @@
 # DIU - Practica 3, entregables
 
-- Moodboard (diseño visual + logotipo)   
-- Landing Page
-- Mockup: LAYOUT HI-FI
-- Publicación del Case Study
+- [Moodboard (diseño visual + logotipo)](./1-Moodboard/Moodboard.png)   
+- [Landing Page](./2-LandingPage/)
+- [Mockup: LAYOUT HI-FI](./3-Guidelines/)
+- [Publicación del Case Study](https://github.com/CarlosLinero9/UX_CaseStudy/tree/main)
 
-## Conclusiones
+## Conclusiones
 
->>>> Este fichero se debe editar para que cada evidencia quede enlazada con el recurso subido a la carpeta de la practica. Se pide más detalle técnico en las descripciones de lo que sería el README principal del repositorio y que corresponde a la descripcion del Case Study.
->>>> Termine con la seccion de Conclusiones para aportar una valoración final del equipo sobre la propia realización de la práctica
+En esta práctica hemos desarrollado la identidad visual y la propuesta de interfaz final de Punto Café, partiendo de la estructura definida en la práctica anterior. A través del moodboard, la landing page y el mockup hi-fi, hemos conseguido trasladar la idea del proyecto a una propuesta gráfica más coherente, atractiva y cercana al resultado final.
+
+Además, esta fase nos ha servido para comprobar cómo la arquitectura, los flujos y los wireframes pueden evolucionar hacia una interfaz visual completa sin perder claridad ni funcionalidad. Como valoración general, ha sido una etapa útil para entender mejor la relación entre diseño visual y experiencia de usuario, y para dar mayor solidez al case study.

@@ -354,25 +354,104 @@ Los wireframes recogen las pantallas principales de la aplicación, incluyendo l
 ![Método UX](img/moodboard.png)
 -----
 
+#### Moodboard:
+![Moodboard](P3/1-Moodboard/Moodboard.png) 
+
+#### Logos:
+
+<img src="P3/1-Moodboard/Logo_1.png" width="600" height="400">
+<img src="P3/1-Moodboard/Logo_2.png" width="600" height="400">
+<img src="P3/1-Moodboard/Logo_3.png" width="600" height="400">
+
+Para la elaboración del moodboard se ha utilizado Figma/FigJam, ya que permite organizar de forma visual la paleta, tipografías, logotipo e imágenes de referencia en un mismo espacio de trabajo.
+
+El logotipo sí puede reutilizarse en redes sociales como Instagram, por ejemplo en la imagen de perfil o en publicaciones, siempre que se exporte en un formato y tamaño apropiados.
+
 
 ### 3.b Landing Page
 ![Método UX](img/landing-page.png) 
 ----
+
+<!-- ![Landing Page](P3/2-LandingPage/Landing_Page.png) -->
 
 
 ### 3.c Guidelines
 ![Método UX](img/guidelines.png) 
 ----
 
+En esta fase se han definido una serie de **guidelines de interfaz** a partir de los wireframes y mockups desarrollados para **Punto Café**, con el objetivo de mantener una experiencia visual coherente, sencilla y centrada en las tareas principales detectadas en fases anteriores: **descubrir locales**, **consultar información útil del establecimiento** y **comprar productos online** de forma clara y guiada.
+
+A partir de los diseños realizados, se han consolidado los siguientes patrones de interfaz:
+
+- **Barra superior unificada**: todas las pantallas comparten un encabezado redondeado y limpio, que integra la identidad de marca y accesos rápidos como menú y perfil. Esto aporta consistencia y facilita la orientación del usuario.
+
+- **Jerarquía vertical simple**: la información se organiza en bloques claramente diferenciados, priorizando una lectura de arriba abajo muy adecuada para móvil. De este modo, cada pantalla presenta primero la información o acción más importante y después el contenido complementario.
+
+- **Tarjetas de contenido (cards)**: se utilizan para representar productos, locales, pedidos, direcciones y métodos de pago. Este patrón permite agrupar información relacionada en módulos visuales fáciles de escanear y reutilizables en distintas secciones.
+
+- **Botones principales destacados**: acciones clave como **Ver productos**, **Agregar al carrito**, **Finalizar pedido**, **Guardar cambios** o **Volver** se resuelven mediante botones grandes, centrados y con un color lavanda suave que los hace visibles sin romper la armonía general de la interfaz.
+
+- **Exploración guiada en tienda**: la tienda incorpora un buscador visible y un sistema de filtros desplegables, lo que ayuda a reducir el esfuerzo de búsqueda y mejora la exploración de productos según criterios como precio, accesorios u origen.
+
+- **Fichas de producto centradas en la decisión**: en la vista de detalle del producto se priorizan nombre, precio, tipo de molienda, cantidad y CTA de compra. Esta estructura responde directamente al flujo de compra definido en los User Task Flows.
+
+- **Carrito con resumen claro**: la pantalla de carrito muestra los productos añadidos, la cantidad, el subtotal y accesos a información complementaria como política de devolución, envío y método de pago. Así se reduce incertidumbre antes de finalizar el pedido.
+
+- **Área de cuenta modular**: la sección de usuario se divide en bloques funcionales como **Mi cuenta**, **Mis pedidos**, **Direcciones guardadas** y **Métodos de pago**, facilitando una navegación clara dentro del perfil y manteniendo una estructura coherente con el resto del sistema.
+
+- **Pantallas de gestión específicas**: vistas como direcciones, pedidos o métodos de pago reutilizan la misma lógica visual basada en tarjetas, encabezado fijo y una acción principal al final, reforzando la consistencia del sistema.
+
+- **Uso de espacios amplios y baja densidad visual**: se ha optado por una interfaz despejada, con bastante aire entre elementos, para favorecer la legibilidad y la comodidad de uso en dispositivos móviles.
+
+- **Paleta visual suave y funcional**: los tonos lilas y neutros empleados en botones, fondos y bloques ayudan a transmitir una experiencia amable, moderna y accesible, sin competir con el contenido principal.
+
+En conjunto, estas guidelines permiten construir una interfaz mobile-first coherente con la propuesta de valor de **Punto Café**: una experiencia clara, cercana y funcional que une en un mismo sistema la consulta de locales, la exploración de productos y la compra online guiada.
+
+<!-- #### Pantallas principales del guideline
+
+##### Inicio
+![Inicio](P3/3-Guidelines/inicio.png)
+
+##### Tienda y exploración de productos
+![Tienda](P3/3-Guidelines/Tienda.png)
+![Filtros](P3/3-Guidelines/Filtros.png)
+![Información del producto](P3/3-Guidelines/info_cafe.png)
+
+##### Carrito y proceso de compra
+![Carrito](P3/3-Guidelines/Carrito.png)
+
+##### Área de usuario
+![Cuenta](P3/3-Guidelines/Cuenta.png)
+![Mi Cuenta](P3/3-Guidelines/Modificar.png)
+![Mis Pedidos](P3/3-Guidelines/Pedidos.png)
+![Direcciones](P3/3-Guidelines/Direcciones.png)
+![Métodos de pago](P3/3-Guidelines/Pago.png)
+
+##### Vista general del sistema
+![Wireframe general](P3/3-Guidelines/WireFrame.png)
+
+Consulta el guideline aquí: [Guideline](./P3/3-Guidelines/Guideline.pdf) -->
+
 
 ### 3.d Mockup
 ![Método UX](img/mockup.png) 
 ----
 
+<!-- En esta fase se ha desarrollado una primera versión navegable de la propuesta mediante **wireframes interactivos en Figma**. El objetivo de estos wireframes ha sido definir la estructura general de **Punto Café**, organizar las pantallas principales del sistema y comprobar que los flujos de navegación responden de forma clara a las tareas detectadas en fases anteriores antes de continuar con el diseño visual definitivo.
+
+A través del prototipo se pueden simular las acciones más importantes de la aplicación, como **explorar la tienda**, **buscar y filtrar productos**, **consultar la ficha de un café**, **añadir artículos al carrito**, **revisar el pedido** y acceder al área de **cuenta de usuario**, donde se incluyen apartados como **mis pedidos**, **direcciones guardadas** y **métodos de pago**. Además, el sistema incorpora una pantalla principal con acceso a productos destacados, carta y locales, así como vistas específicas para reforzar la comprensión del producto y la gestión de la compra. De este modo, los wireframes nos han permitido validar tanto la arquitectura de la información como la relación entre pantallas y tareas, de una forma sencilla, visual y coherente con el flujo general de uso. 
+
+- **Enlace al wireframe interactivo en Figma:** [Ver wireframe interactivo]()
+
+-->
 
 ### 3.e My UX-Case Study
 ![Método UX](img/caseStudy.png) 
 -----
+
+Consultar nuestro Case Study [aquí](https://github.com/CarlosLinero9/UX_CaseStudy/tree/main)
+
+<br>
 
 ## Paso 4. Pruebas de Evaluación 
 
