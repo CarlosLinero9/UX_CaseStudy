@@ -1,7 +1,7 @@
 # DIU - Practica 3, entregables
 
 - [Moodboard (diseño visual + logotipo)](./1-Moodboard/Moodboard.png)   
-- [Landing Page](./2-LandingPage/)
+- [Landing Page](./2-LandingPage/Landing_Page.png)
 - [Mockup: LAYOUT HI-FI](./3-Guidelines/)
 - [Publicación del Case Study](https://github.com/CarlosLinero9/UX_CaseStudy/tree/main)
 
