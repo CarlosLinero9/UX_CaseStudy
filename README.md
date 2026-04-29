@@ -372,7 +372,7 @@ El logotipo sí puede reutilizarse en redes sociales como Instagram, por ejemplo
 ![Método UX](img/landing-page.png) 
 ----
 
-![Landing Page](P3/2-LandingPage/inicio.png)
+![Landing Page](P3/2-LandingPage/Inicio.png)
 
 ### 3.c Guidelines
 ![Método UX](img/guidelines.png) 

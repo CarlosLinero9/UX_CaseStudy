@@ -1,7 +1,7 @@
 # DIU - Practica 3, entregables
 
 - [Moodboard (diseño visual + logotipo)](./1-Moodboard/Moodboard.png)   
-- [Landing Page](./2-LandingPage/inicio.png)
+- [Landing Page](./2-LandingPage/Inicio.png)
 - [Mockup: LAYOUT HI-FI](./3-Guidelines/pantallas)
 - [Ver wireframe interactivo](https://www.figma.com/proto/yWEqVgqky7uYk8etIc7p0s/WireFrame?node-id=82-1010&p=f&t=w87hcnswGLuCCPV2-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=82%3A1010)
 - [Publicación del Case Study](https://github.com/CarlosLinero9/UX_CaseStudy/tree/main)
