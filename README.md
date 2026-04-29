@@ -413,7 +413,7 @@ En conjunto, estas guidelines permiten construir una interfaz mobile-first coher
 
 
 
-##### Tienda y exploración de productos
+### Tienda y exploración de productos
 ![Tienda](P3/3-Guidelines/pantallas/Tienda.png)
 
 ![Filtros](P3/3-Guidelines/pantallas/Filtros.png)
@@ -422,12 +422,12 @@ En conjunto, estas guidelines permiten construir una interfaz mobile-first coher
 
 
 
-##### Carrito y proceso de compra
+### Carrito y proceso de compra
 ![Carrito](P3/3-Guidelines/pantallas/Carrito.png)
 
 
 
-##### Área de usuario
+### Área de usuario
 ![Cuenta](P3/3-Guidelines/pantallas/Cuenta.png)
 
 ![Mi Cuenta](P3/3-Guidelines/pantallas/Mi_Cuenta.png)
