@@ -372,7 +372,7 @@ El logotipo sí puede reutilizarse en redes sociales como Instagram, por ejemplo
 ![Método UX](img/landing-page.png) 
 ----
 
-![Landing Page](P3/2-LandingPage/Landing_Page.png)
+![Landing Page](P3/2-LandingPage/inicio.png)
 
 ### 3.c Guidelines
 ![Método UX](img/guidelines.png) 
@@ -411,19 +411,31 @@ En conjunto, estas guidelines permiten construir una interfaz mobile-first coher
 ##### Inicio
 ![Inicio](P3/3-Guidelines/pantallas/Inicio.png)
 
+
+
 ##### Tienda y exploración de productos
 ![Tienda](P3/3-Guidelines/pantallas/Tienda.png)
+
 ![Filtros](P3/3-Guidelines/pantallas/Filtros.png)
+
 ![Información del producto](P3/3-Guidelines/pantallas/Info_Cafe.png)
+
+
 
 ##### Carrito y proceso de compra
 ![Carrito](P3/3-Guidelines/pantallas/Carrito.png)
 
+
+
 ##### Área de usuario
 ![Cuenta](P3/3-Guidelines/pantallas/Cuenta.png)
+
 ![Mi Cuenta](P3/3-Guidelines/pantallas/Mi_Cuenta.png)
+
 ![Mis Pedidos](P3/3-Guidelines/pantallas/Pedidos.png)
+
 ![Direcciones](P3/3-Guidelines/pantallas/Direcciones.png)
+
 ![Métodos de pago](P3/3-Guidelines/pantallas/Pago.png)
 
 
