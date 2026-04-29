@@ -408,7 +408,7 @@ En conjunto, estas guidelines permiten construir una interfaz mobile-first coher
 
 #### Pantallas principales del guideline
 
-##### Inicio
+### Inicio
 ![Inicio](P3/3-Guidelines/pantallas/Inicio.png)
 
 
