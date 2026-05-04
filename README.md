@@ -378,7 +378,6 @@ El logotipo sí puede reutilizarse en redes sociales como Instagram, por ejemplo
 ![Método UX](img/guidelines.png) 
 ----
 
-<!--
 En esta fase se han definido una serie de **guidelines de interfaz** a partir de los wireframes y mockups desarrollados para **Punto Café**, con el objetivo de mantener una experiencia visual coherente, sencilla y centrada en las tareas principales detectadas en fases anteriores: **descubrir locales**, **consultar información útil del establecimiento** y **comprar productos online** de forma clara y guiada.
 
 A partir de los diseños realizados, se han consolidado los siguientes patrones de interfaz:
@@ -439,20 +438,16 @@ En conjunto, estas guidelines permiten construir una interfaz mobile-first coher
 
 ![Métodos de pago](P3/3-Guidelines/pantallas/Pago.png)
 
--->
-
 ### 3.d Mockup
 ![Método UX](img/mockup.png) 
 ----
 
-<!--
 En esta fase se ha desarrollado una primera versión navegable de la propuesta mediante **wireframes interactivos en Figma**. El objetivo de estos wireframes ha sido definir la estructura general de **Punto Café**, organizar las pantallas principales del sistema y comprobar que los flujos de navegación responden de forma clara a las tareas detectadas en fases anteriores antes de continuar con el diseño visual definitivo.
 
 A través del prototipo se pueden simular las acciones más importantes de la aplicación, como **explorar la tienda**, **buscar y filtrar productos**, **consultar la ficha de un café**, **añadir artículos al carrito**, **revisar el pedido** y acceder al área de **cuenta de usuario**, donde se incluyen apartados como **mis pedidos**, **direcciones guardadas** y **métodos de pago**. Además, el sistema incorpora una pantalla principal con acceso a productos destacados, carta y locales, así como vistas específicas para reforzar la comprensión del producto y la gestión de la compra. De este modo, los wireframes nos han permitido validar tanto la arquitectura de la información como la relación entre pantallas y tareas, de una forma sencilla, visual y coherente con el flujo general de uso. 
 
 - **Enlace al wireframe interactivo en Figma:** [Ver wireframe interactivo](https://www.figma.com/proto/yWEqVgqky7uYk8etIc7p0s/WireFrame?node-id=82-1010&p=f&t=w87hcnswGLuCCPV2-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=82%3A1010)
 
--->
 
 ### 3.e My UX-Case Study
 ![Método UX](img/caseStudy.png) 
