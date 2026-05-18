@@ -15,17 +15,9 @@ Abre:
 http://localhost:5173
 ```
 
-## Modo desarrollo
+## Ejecución
 
 ```bash
-npm install --no-audit --no-fund
-npm run dev
-```
-
-Si venías de un ZIP anterior, borra antes `node_modules` y reinstala:
-
-```bash
-rm -rf node_modules
-npm install --no-audit --no-fund
+npm install
 npm run dev
 ```
