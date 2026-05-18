@@ -546,6 +546,7 @@ La prueba se ha organizado en torno a tres tareas equivalentes para los dos caso
 | **Tarea 2: consultar información del local** | La información sobre tienda o punto de venta se encuentra de forma bastante directa. La navegación es sencilla y no requiere muchos pasos. | La información del restaurante puede localizarse, pero necesita una exploración algo mayor por parte del usuario. |
 | **Tarea 3: iniciar una compra o reserva** | El flujo principal se entiende correctamente. Los botones de acción tienen buena visibilidad y el usuario puede avanzar sin demasiadas dudas. | La acción principal también está presente, aunque en algunos momentos puede quedar menos destacada frente al diseño visual general. |
 
+<!--
 #### Resultados obtenidos
 
 | Métrica | Caso A: Punto Café | Caso B: Umai! 旨い |
@@ -565,7 +566,7 @@ El **Caso B: Umai! 旨い** también presenta una propuesta funcional y atractiv
 Por tanto, el resultado agregado indica que **Punto Café es el caso más usable en esta prueba**, especialmente por la claridad de su navegación, la visibilidad de sus botones principales y la organización de la información.
 
 >>> Los resultados de un A/B testing con 3 pruebas y 2 casos o alternativas daría como resultado una tabla de 3 filas y 2 columnas, además de un resultado agregado global. Especifique con claridad el resultado: qué caso es más usable, A o B?
-
+-->
 ### 4.e Aplicación del método Eye Tracking 
 ![Método UX](img/eye-tracking.png)
 ----
@@ -582,7 +583,7 @@ Por tanto, el resultado agregado indica que **Punto Café es el caso más usable
 ### 4.f Usability Report de B
 ![Método UX](img/usability-report.png) 
 -----
-
+<!--
 Se ha elaborado un **Usability Report** del **Caso B**, correspondiente al proyecto **Umai! 旨い**, asignado a nuestro grupo para la evaluación comparativa de usabilidad. Este informe recoge los resultados obtenidos a partir de las distintas pruebas realizadas durante la práctica: reclutamiento de usuarios, A/B Testing, cuestionario SUS y análisis mediante Eye Tracking.
 
 El objetivo de este informe es detectar las principales fortalezas y debilidades de la interfaz evaluada, prestando atención a aspectos como la claridad de navegación, la visibilidad de los elementos principales, la facilidad para completar tareas y la jerarquía visual de la información.
@@ -710,7 +711,7 @@ Esta evaluación también nos ha servido para reflexionar sobre nuestra propia p
 >>> Complementad el Case Study en su Paso 4 con una Valoración personal del equipo sobre esta tarea
 
 <br>
-
+-->
 ## Paso 5. Exportación y Documentación 
 
 
@@ -742,7 +743,7 @@ Las evidencias de esta fase se encuentran en la carpeta:
 ### 5.b Documentación con Storybook
 ![Método UX](img/usabilityReview.png)
 ----
-
+<!--
 Aunque inicialmente se planteó la posibilidad de documentar los componentes mediante **Storybook**, finalmente se ha optado por una documentación más sencilla dentro de la propia carpeta **P5**. Esta decisión se debe a que, tras la actualización del guion de prácticas, Storybook dejó de ser una parte obligatoria y se dio más importancia a unificar la documentación de componentes con el briefing y la exportación a React.
 
 En lugar de crear una instancia completa de Storybook, se ha preparado una documentación de los principales componentes UI utilizados en la versión React de **Punto Café**. Esta documentación permite identificar qué componentes forman la interfaz, qué función cumplen y cómo se relacionan con el diseño planteado en las prácticas anteriores.
@@ -786,6 +787,6 @@ En conclusión, estas prácticas nos han ayudado a entender que diseñar una int
 
 >>> Opinión FINAL del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos. ¿Qué se puede mejorar? Recuerda que este tipo de texto se debe eliminar del template que se os proporciona 
 
-
+-->
 
 
