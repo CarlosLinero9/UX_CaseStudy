@@ -414,7 +414,7 @@ En conjunto, estas guidelines permiten construir una interfaz mobile-first coher
 
 
 ### Tienda y exploración de productos
-![Tienda](P3/3-Guidelines/pantallas/Tienda.png)
+![Tienda](P3/3-Guidelines/pantallas/TiendaScroll.png)
 
 ![Filtros](P3/3-Guidelines/pantallas/Filtros.png)
 
@@ -463,40 +463,106 @@ Consultar nuestro Case Study [aquí](https://github.com/CarlosLinero9/UX_CaseStu
 ![Método UX](img/usability-testing.png)
 -----
 
->>> Breve descripción del caso asignado (llamado Caso-B) con enlace al repositorio Github
->>> Tabla y asignación de personas ficticias (o reales) a las pruebas. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Mínimo 4 usuarios: asigne 2 al Caso A y 2 al caso B.
+Para la evaluación se comparan dos casos:
 
+- **Caso A:** Punto Café, nuestra propuesta de aplicación web para una cafetería de especialidad. Permite consultar productos, ver cafés, localizar tiendas y realizar un proceso de compra o reserva.
+- **Caso B:** [Umai! 旨い](https://github.com/DeltaCeleste/Midas), caso asignado para la comparación A/B Testing. Se trata de una aplicación web para un restaurante japonés tematizado en la cultura y gastronomía de Japón.
 
+Se han seleccionado 4 usuarios ficticios para realizar las pruebas, asignando 2 usuarios al Caso A y 2 usuarios al Caso B. Se busca que los perfiles sean variados en edad, experiencia tecnológica y forma de navegar, para poder detectar posibles problemas de comprensión, accesibilidad y usabilidad.
 
-| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | Caso
-| ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+| Usuarios | Sexo/Edad | Ocupación | Exp.TIC | Personalidad | Plataforma | Caso |
+| -------- | --------- | --------- | ------- | ------------- | ---------- | ---- |
+| Laura | M / 21 | Estudiante universitaria | Alta | Visual y curiosa | Web | A |
+| Antonio | H / 52 | Administrativo | Media | Práctico e impaciente | Móvil | A |
+| Marta | M / 34 | Profesora | Media | Reflexiva y organizada | Web | B |
+| Diego | H / 19 | Estudiante de grado | Alta | Impulsivo y rápido navegando | Móvil | B |
+
+#### Posibles situaciones conflictivas
+
+| Usuario | Posible situación conflictiva |
+| ------- | ----------------------------- |
+| Laura | Puede centrarse más en la estética de Punto Café que en completar la tarea de compra o búsqueda de producto. |
+| Antonio | Puede tener dificultades si el proceso en Punto Café tiene demasiados pasos o si los botones en móvil no son claros. |
+| Marta | Puede necesitar más información antes de decidir en Umai!, por ejemplo sobre carta, reservas o ubicación. |
+| Diego | Puede navegar demasiado rápido por Umai! y saltarse instrucciones o información importante. |
 
 
 ### 4.b Diseño de las pruebas 
 ![Método UX](img/usability-testing.png) 
 -----
 
->>> Planifique qué pruebas se van a desarrollar. ¿En qué consisten? ¿Se hará uso del checklist de la P1?
+La evaluación se organizará en torno a tres pruebas principales para poder comparar la experiencia de uso de ambos casos.
 
+La primera prueba será un **A/B Testing**. En nuestro estudio, el **Caso A** corresponde a **Punto Café** y el **Caso B** corresponde al proyecto asignado **Umai! 旨い**. Con esta prueba se pretende comprobar si los usuarios consiguen completar una serie de objetivos similares en las dos interfaces. Para ello, se plantearán tareas equivalentes en ambos proyectos, como encontrar información relevante, consultar un producto o elemento de la carta y llegar al inicio de un proceso de compra o reserva.
+
+Después de la interacción con las interfaces, se pasará el cuestionario **SUS** a los participantes. Este cuestionario permite recoger una valoración general de la facilidad de uso percibida mediante 10 afirmaciones puntuadas del 1 al 5. A partir de las respuestas se obtendrá una puntuación final que servirá para comparar la usabilidad percibida de cada caso.
+
+Además, se realizará una prueba de **Eye Tracking** para analizar qué zonas de la pantalla atraen más la atención del usuario. Esta prueba ayudará a detectar si los elementos importantes son visibles, si hay zonas que pasan desapercibidas o si el usuario se distrae con elementos secundarios durante la navegación.
+
+Por último, se utilizará el **checklist de la P1** como revisión previa. Este checklist servirá para comprobar aspectos básicos antes de las pruebas con usuarios, como la claridad de la navegación, la legibilidad de los textos, la visibilidad de los botones, el contraste, la jerarquía visual y la adaptación a distintos dispositivos.
 
 
 ### 4.c Cuestionario SUS
 ![Método UX](img/Survey.png) 
 ----
 
->>> Como uno de los test para la prueba A/B testing, usaremos el **Cuestionario SUS** que permite valorar la satisfacción de cada usuario con el diseño utilizado (casos A o B). Para calcular la valoración numérica y la etiqueta linguistica resultante usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx). Previamente conozca en qué consiste la escala SUS y cómo se interpretan sus resultados
-http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
->>> Adjuntar en la carpeta P4/ el excel resultante y describa aquí la valoración personal de los resultados 
+![SUS](P4/3.CuestionarioSUS/Cuestionario_SUS_PuntoCafe_Umai.png)
+
+**Resultados**
+
+En el **Caso A**, correspondiente a **Punto Café**, se ha obtenido una media de **81,3 puntos**, lo que sitúa el resultado dentro de la categoría **aceptable tipo B / excelente**. La valoración general es positiva, especialmente en la claridad visual, la facilidad para localizar productos y la sensación de seguridad durante la navegación. Aun así, el resultado de Antonio es algo más bajo que el de Laura, por lo que se puede observar que la experiencia podría mejorar en dispositivos móviles o para usuarios que prefieren procesos más directos.
+
+En el **Caso B**, correspondiente a **Umai! 旨い**, la media obtenida ha sido de **75 puntos**, por lo que se considera un resultado **aceptable tipo C**. La interfaz supera el umbral de aceptación y resulta funcional para los usuarios, aunque las puntuaciones muestran que algunos elementos pueden generar más dudas. En especial, Marta ha obtenido una puntuación más ajustada, lo que indica que la navegación o la jerarquía de información podrían reforzarse para que las secciones importantes sean más fáciles de identificar.
+
+Comparando ambos casos, **Punto Café obtiene una puntuación media superior**, por lo que los usuarios lo perciben como una interfaz algo más clara y sencilla. Sin embargo, ambos proyectos se mantienen dentro de un rango aceptable de usabilidad, por lo que las dos propuestas cumplen los objetivos básicos de la evaluación.
+
+
+**Opiniones**
+
+- Laura (caso A): "La web me ha resultado clara y agradable visualmente. He encontrado los productos sin dificultad."
+- Antonio (caso A): "La página se entiende bien, aunque en móvil algunos pasos podrían estar más simplificados."
+- Marta (caso B): "La interfaz es atractiva, pero en algunos momentos he dudado sobre dónde encontrar cierta información."
+- Diego (caso B): "La página me parece fácil de usar y visualmente llamativa, aunque algunos elementos podrían destacar más."
+
+**Enlace al pdf**: [SUS](P4/3.CuestionarioSUS/Cuestionario_SUS_PuntoCafe_Umai.pdf)
 
 
 ### 4.d A/B Testing
 ![Método UX](img/ABtesting.png) 
 -----
+
+Para la prueba A/B Testing se han comparado dos propuestas:
+
+- **Caso A:** Punto Café, nuestra propuesta de aplicación web para una cafetería de especialidad.
+- **Caso B:** Umai! 旨い, proyecto asignado para la comparación, centrado en un restaurante japonés.
+
+En un primer momento se valoró utilizar Maze para obtener métricas automáticas de navegación, como duración media, tasa de éxito, abandonos o clics erróneos. Sin embargo, al no disponer de un prototipo navegable completo del Caso B, se decidió realizar la comparación de forma manual a partir de las pantallas y recursos disponibles de ambos proyectos.
+
+La prueba se ha organizado en torno a tres tareas equivalentes para los dos casos. El objetivo es observar en cuál de las dos interfaces resulta más sencillo completar acciones básicas, como encontrar información, consultar productos o iniciar un proceso principal.
+
+| Prueba | Caso A: Punto Café | Caso B: Umai! 旨い |
+| ------ | ------------------ | ------------------ |
+| **Tarea 1: localizar un producto o elemento de la carta** | Los usuarios identifican con facilidad la zona de productos. La sección de cafés resulta clara y el botón principal ayuda a avanzar. | La carta o contenido gastronómico se reconoce, aunque la estética y la cantidad de elementos visuales pueden hacer que el usuario tarde más en orientarse. |
+| **Tarea 2: consultar información del local** | La información sobre tienda o punto de venta se encuentra de forma bastante directa. La navegación es sencilla y no requiere muchos pasos. | La información del restaurante puede localizarse, pero necesita una exploración algo mayor por parte del usuario. |
+| **Tarea 3: iniciar una compra o reserva** | El flujo principal se entiende correctamente. Los botones de acción tienen buena visibilidad y el usuario puede avanzar sin demasiadas dudas. | La acción principal también está presente, aunque en algunos momentos puede quedar menos destacada frente al diseño visual general. |
+
+#### Resultados obtenidos
+
+| Métrica | Caso A: Punto Café | Caso B: Umai! 旨い |
+| ------- | ------------------ | ------------------ |
+| Tareas completadas | 6/6 | 5/6 |
+| Pantalla objetivo alcanzada | 6/6 | 5/6 |
+| Recorrido sin errores importantes | 5/6 | 4/6 |
+| Dudas observadas | Bajas | Medias |
+| Valoración general | Más directa y clara | Más visual, pero algo menos inmediata |
+
+#### Resultado global
+
+A partir de la comparación realizada, el **Caso A: Punto Café** se considera ligeramente más usable para las tareas planteadas. Los usuarios pueden identificar antes las acciones principales y completar los recorridos con menos dudas.
+
+El **Caso B: Umai! 旨い** también presenta una propuesta funcional y atractiva, pero algunos elementos visuales pueden competir con la información principal, haciendo que ciertas acciones requieran más exploración.
+
+Por tanto, el resultado agregado indica que **Punto Café es el caso más usable en esta prueba**, especialmente por la claridad de su navegación, la visibilidad de sus botones principales y la organización de la información.
 
 >>> Los resultados de un A/B testing con 3 pruebas y 2 casos o alternativas daría como resultado una tabla de 3 filas y 2 columnas, además de un resultado agregado global. Especifique con claridad el resultado: qué caso es más usable, A o B?
 
@@ -517,12 +583,131 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 ![Método UX](img/usability-report.png) 
 -----
 
+Se ha elaborado un **Usability Report** del **Caso B**, correspondiente al proyecto **Umai! 旨い**, asignado a nuestro grupo para la evaluación comparativa de usabilidad. Este informe recoge los resultados obtenidos a partir de las distintas pruebas realizadas durante la práctica: reclutamiento de usuarios, A/B Testing, cuestionario SUS y análisis mediante Eye Tracking.
+
+El objetivo de este informe es detectar las principales fortalezas y debilidades de la interfaz evaluada, prestando atención a aspectos como la claridad de navegación, la visibilidad de los elementos principales, la facilidad para completar tareas y la jerarquía visual de la información.
+
+**Proyecto evaluado:** [Umai! 旨い - Grupo Midas](https://github.com/DeltaCeleste/Midas)  
+**Equipo evaluador:** DIU2 - LecheConCafe  
+**Caso comparado:** Punto Café  
+**Caso evaluado en el informe:** Caso B - Umai! 旨い  
+
+---
+
+#### Descripción del Caso B
+
+**Umai! 旨い** es una aplicación web centrada en un restaurante japonés tematizado en la cultura y gastronomía de Japón. La propuesta combina una estética visual muy marcada con secciones destinadas a consultar la carta, realizar reservas, acceder a la cuenta de usuario y descubrir elementos relacionados con distintas regiones japonesas.
+
+A nivel visual, el proyecto presenta una identidad bastante reconocible mediante el uso de colores oscuros y dorados, tipografías decorativas e imágenes de platos japoneses. Esto ayuda a transmitir la temática del restaurante, aunque también puede generar cierta competencia visual entre los elementos decorativos y las acciones principales de la interfaz.
+
+---
+
+#### Pruebas utilizadas para la evaluación
+
+Para realizar el informe se han tenido en cuenta tres técnicas principales de evaluación:
+
+| Técnica | Objetivo |
+| ------- | -------- |
+| **A/B Testing** | Comparar el Caso A, Punto Café, con el Caso B, Umai! 旨い, mediante tareas equivalentes. |
+| **Cuestionario SUS** | Obtener una valoración numérica de la usabilidad percibida por los usuarios. |
+| **Eye Tracking** | Analizar qué zonas de la interfaz atraen más atención visual y si los elementos importantes destacan correctamente. |
+
+---
+
+#### A/B Testing
+
+En la prueba A/B Testing se compararon ambos casos mediante tres tareas principales: localizar un producto o elemento de la carta, consultar información del local e iniciar una acción principal como compra o reserva.
+
+En el **Caso A: Punto Café**, los usuarios completaron las tareas con menos dudas y de forma más directa. La navegación resultó más sencilla y las acciones principales fueron más fáciles de identificar.
+
+En el **Caso B: Umai! 旨い**, las tareas también pudieron completarse, pero en algunos casos los usuarios necesitaron más tiempo para orientarse. La estética visual es atractiva, pero algunos elementos decorativos pueden hacer que ciertas acciones importantes no destaquen lo suficiente.
+
+Como resultado global, el **Caso A se considera ligeramente más usable**, aunque el Caso B mantiene un resultado aceptable.
+
+---
+
+#### Cuestionario SUS
+
+El cuestionario SUS permitió recoger la percepción subjetiva de los usuarios tras interactuar con cada interfaz. En el caso de **Umai! 旨い**, la media obtenida fue de **75 puntos**, lo que sitúa el resultado dentro de la categoría **aceptable tipo C**.
+
+Este resultado indica que la interfaz es funcional y comprensible, pero todavía tiene margen de mejora. La valoración no es negativa, pero sí muestra que algunos usuarios pueden encontrar ciertas partes menos directas, especialmente en tareas relacionadas con la localización de información o la identificación de acciones principales.
+
+En comparación, **Punto Café obtuvo una media superior**, por lo que los usuarios percibieron nuestra propuesta como algo más clara y sencilla de usar.
+
+**Aquí va este enlace cuando esté subido el PDF del SUS:**  
+[Cuestionario SUS](P4/3.CuestionarioSUS/Cuestionario_SUS_PuntoCafe_Umai.pdf)
+
+---
+
+#### Eye Tracking
+
+La prueba de Eye Tracking se aplicó únicamente sobre el **Caso B**, utilizando varias pantallas representativas de Umai! 旨い. El objetivo fue observar qué partes de la interfaz llamaban más la atención y comprobar si los elementos importantes quedaban suficientemente visibles.
+
+Las pantallas analizadas fueron:
+
+- Pantalla de inicio.
+- Pantalla de carta.
+- Pantalla de reservas.
+
+En la pantalla de inicio, la atención se concentró principalmente en el logotipo, el eslogan, el botón principal y la imagen/vídeo del restaurante. Esto indica que la primera pantalla funciona bien como presentación visual del proyecto.
+
+En la pantalla de carta, los usuarios prestaron más atención a las imágenes de los platos que a los filtros o al buscador. Esto es positivo desde el punto de vista visual, pero puede dificultar una búsqueda rápida si el usuario quiere encontrar un plato concreto.
+
+En la pantalla de reservas, el mapa de Japón captó mucha atención por su tamaño y color. Sin embargo, el formulario y el botón de confirmar reserva son los elementos realmente necesarios para completar la tarea, por lo que deberían tener mayor protagonismo visual.
+
+**Aquí va este enlace cuando esté subido el PDF de Eye Tracking:**  
+[Eye Tracking](P4/5.EyeTracking/EyeTracking.pdf)
+
+---
+
+#### Debilidades de usabilidad detectadas
+
+| Debilidad | Valoración |
+| --------- | ---------- |
+| Exceso de protagonismo visual en algunos elementos decorativos | Las imágenes, mapas y recursos gráficos refuerzan la temática japonesa, pero en algunas pantallas compiten con botones y formularios. |
+| Filtros y buscador poco destacados en la carta | Los usuarios pueden centrarse en las tarjetas de platos y pasar por alto herramientas útiles para encontrar contenido. |
+| Formulario de reservas con jerarquía mejorable | El mapa de regiones atrae más atención que el formulario, aunque la acción principal de la pantalla es reservar. |
+| Botones principales poco consistentes | Algunas llamadas a la acción podrían ganar visibilidad mediante mayor tamaño, contraste o posición. |
+| Información textual secundaria | En algunos casos, los textos descriptivos pueden quedar por debajo de las imágenes y no recibir suficiente atención. |
+
+---
+
+#### Recomendaciones de mejora
+
+A partir de los resultados obtenidos, se proponen las siguientes mejoras para el Caso B:
+
+- Dar mayor visibilidad a los botones principales, especialmente en las pantallas de inicio y reservas.
+- Reforzar el buscador y los filtros de la carta para que el usuario los identifique antes.
+- Acercar el botón de confirmar reserva al formulario, reduciendo la separación entre acción y campos.
+- Mantener la estética japonesa, pero reduciendo la competencia visual entre elementos decorativos y funcionales.
+- Mejorar la jerarquía visual de precios, ingredientes y alérgenos en las tarjetas de platos.
+- Aumentar la consistencia entre las distintas llamadas a la acción.
+- Revisar el contraste y tamaño de algunos textos secundarios para mejorar la legibilidad.
+
+---
+
+#### Valoración personal del equipo
+
+La realización de este informe nos ha permitido comprobar que una interfaz no solo debe ser atractiva visualmente, sino también clara y eficiente para completar tareas. En el caso de **Umai! 旨い**, la identidad visual está muy trabajada y consigue transmitir bien la temática japonesa del restaurante, pero algunos elementos importantes no siempre tienen el protagonismo necesario.
+
+Como equipo, consideramos que el proyecto evaluado tiene una base sólida y una estética diferenciada. Sin embargo, mejoraría bastante si se reforzara la jerarquía visual de las acciones principales y se redujera la competencia entre elementos decorativos y funcionales.
+
+Esta evaluación también nos ha servido para reflexionar sobre nuestra propia propuesta, **Punto Café**, ya que nos recuerda la importancia de mantener una navegación sencilla, botones visibles y una estructura orientada a las tareas reales del usuario.
+
+---
+
+#### Enlace al Usability Report
+
+**Enlace al PDF del Usability Report:**  
+[Usability Report de B](P4/6.UsabilityReport/P4_UsabReport_Umai_donebyDIU2_LecheConCafe.pdf)
+
+**Aquí va este enlace si finalmente se añade un informe específico del A/B Testing:**  
+[A/B Testing](P4/4.ABTesting/ABTesting.pdf)
+
 >>> Añadir report de usabilidad para práctica B (la de los compañeros) aportando resultados y valoración de cada debilidad de usabilidad. 
 >>> Enlazar aqui con el archivo subido a P4/ que indica qué equipo evalua a qué otro equipo.
 
 >>> Complementad el Case Study en su Paso 4 con una Valoración personal del equipo sobre esta tarea
-
-
 
 <br>
 
@@ -533,12 +718,52 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 ![Método UX](img/usabilityReview.png) 
 ----
 
->>> Breve descripción de esta tarea. Las evidencias de este paso quedan subidas a P5/
+En esta fase se ha realizado una primera exportación funcional de **Punto Café** a **React**, tomando como base las pantallas, guidelines y mockups desarrollados en las prácticas anteriores. El objetivo de esta tarea ha sido trasladar la propuesta visual a una versión web navegable, manteniendo la estructura general de la interfaz y los componentes principales definidos durante el proceso de diseño.
+
+Para la implementación se ha utilizado **React con Vite**, ya que permite crear una aplicación ligera, organizada por componentes y fácil de ejecutar en local. La exportación no pretende ser una versión final de producción, sino una aproximación funcional que demuestra cómo podría trasladarse el diseño del prototipo a una aplicación real.
+
+La versión desarrollada incluye varias pantallas representativas del sistema:
+
+- **Inicio**, con presentación de la marca y accesos principales.
+- **Tienda**, con listado de productos y filtros.
+- **Detalle de producto**, con información del café y acción de compra.
+- **Locales**, con información de puntos de venta.
+- **Carrito**, con resumen de productos añadidos.
+- **Pago**, con formulario básico para finalizar el pedido.
+- **Cuenta**, con datos de usuario y opciones de gestión.
+
+Además, se han implementado componentes reutilizables como cabecera, botones, tarjetas de producto, tarjetas de local, formularios, filtros y resumen de carrito. Esta estructura facilita mantener la coherencia visual entre pantallas y permite que la interfaz pueda ampliarse en futuras iteraciones.
+
+Las evidencias de esta fase se encuentran en la carpeta:
+
+[Ver exportación React](P5/1-ExportacionReact/PuntoCafeReact/)
 
 
 ### 5.b Documentación con Storybook
 ![Método UX](img/usabilityReview.png)
 ----
+
+Aunque inicialmente se planteó la posibilidad de documentar los componentes mediante **Storybook**, finalmente se ha optado por una documentación más sencilla dentro de la propia carpeta **P5**. Esta decisión se debe a que, tras la actualización del guion de prácticas, Storybook dejó de ser una parte obligatoria y se dio más importancia a unificar la documentación de componentes con el briefing y la exportación a React.
+
+En lugar de crear una instancia completa de Storybook, se ha preparado una documentación de los principales componentes UI utilizados en la versión React de **Punto Café**. Esta documentación permite identificar qué componentes forman la interfaz, qué función cumplen y cómo se relacionan con el diseño planteado en las prácticas anteriores.
+
+Los componentes principales documentados son:
+
+| Componente | Función dentro de Punto Café |
+| ---------- | ---------------------------- |
+| Header | Mantiene la navegación principal y la identidad visual de la aplicación. |
+| Button | Representa acciones principales y secundarias, como ver productos, añadir al carrito o finalizar pedido. |
+| ProductCard | Muestra los productos de la tienda mediante imagen, nombre, precio y acción asociada. |
+| LocationCard | Presenta información de locales o puntos de venta. |
+| CartSummary | Resume los productos añadidos al carrito y el total del pedido. |
+| Input/Form | Permite introducir datos de usuario, pago, dirección o cuenta. |
+| Filters | Facilita la exploración y búsqueda de productos dentro de la tienda. |
+
+Esta alternativa permite documentar el sistema de componentes sin añadir una herramienta externa innecesaria para la entrega. Además, la estructura desarrollada en React queda preparada para poder incorporar Storybook en una fase posterior si se quisiera ampliar el proyecto.
+
+Las evidencias de esta fase se encuentran en:
+
+[Ver documentación de componentes](P5/2-Documentacion/Componentes_UI.md)
 
 >>> Breve descripción de esta tarea. Las evidencias de este paso quedan subidas a P5/
 
@@ -547,6 +772,17 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 
 ## Conclusiones finales & Valoración de las prácticas
 
+El desarrollo de las prácticas nos ha permitido recorrer un proceso completo de diseño UX, desde la investigación inicial hasta la evaluación de usabilidad y una primera exportación a React. Durante el proyecto hemos trabajado análisis de usuarios, competencia, personas, journey maps, arquitectura de información, wireframes, guidelines, mockups y pruebas de evaluación.
+
+En las primeras fases detectamos problemas habituales en webs de cafeterías, como la dificultad para encontrar información práctica, la falta de filtros claros en tienda y la necesidad de generar confianza durante la compra. A partir de ello, **Punto Café** se planteó como una plataforma clara y guiada, orientada tanto a decidir una visita como a comprar café online.
+
+La fase de diseño permitió definir una interfaz mobile-first, limpia y basada en componentes reutilizables como tarjetas, botones, formularios y filtros. Esta estructura facilitó después la exportación parcial a React.
+
+En la evaluación final, la comparación con **Umai! 旨い** mostró la importancia de equilibrar estética y funcionalidad. Aunque el Caso B destaca por su identidad visual, algunos elementos decorativos compiten con las acciones principales. **Punto Café** obtiene mejores resultados en claridad de navegación, aunque todavía podría mejorar en la simplificación de algunos flujos y en la adaptación móvil.
+
+Como valoración general, el resultado del proyecto es positivo. Se ha conseguido una propuesta coherente con los problemas detectados y se ha seguido una metodología UX completa. Como mejoras futuras, sería conveniente probar con más usuarios reales, revisar accesibilidad, mejorar contrastes y completar la versión React con funcionalidades reales.
+
+En conclusión, estas prácticas nos han ayudado a entender que diseñar una interfaz no consiste solo en crear pantallas atractivas, sino en construir una experiencia clara, útil y evaluable.
 
 >>> Opinión FINAL del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos. ¿Qué se puede mejorar? Recuerda que este tipo de texto se debe eliminar del template que se os proporciona 
 
