@@ -506,8 +506,6 @@ Por último, se utilizará el **checklist de la P1** como revisión previa. Este
 ![Método UX](img/Survey.png) 
 ----
 
-![SUS](P4/3.CuestionarioSUS/Cuestionario_SUS_PuntoCafe_Umai.png)
-
 **Resultados**
 
 En el **Caso A**, correspondiente a **Punto Café**, se ha obtenido una media de **81,3 puntos**, lo que sitúa el resultado dentro de la categoría **aceptable tipo B / excelente**. La valoración general es positiva, especialmente en la claridad visual, la facilidad para localizar productos y la sensación de seguridad durante la navegación. Aun así, el resultado de Antonio es algo más bajo que el de Laura, por lo que se puede observar que la experiencia podría mejorar en dispositivos móviles o para usuarios que prefieren procesos más directos.
@@ -524,7 +522,7 @@ Comparando ambos casos, **Punto Café obtiene una puntuación media superior**, 
 - Marta (caso B): "La interfaz es atractiva, pero en algunos momentos he dudado sobre dónde encontrar cierta información."
 - Diego (caso B): "La página me parece fácil de usar y visualmente llamativa, aunque algunos elementos podrían destacar más."
 
-**Enlace al pdf**: [SUS](P4/3.CuestionarioSUS/Cuestionario_SUS_PuntoCafe_Umai.pdf)
+**Enlace al pdf**: [SUS](P4/3-CuestionarioSUS/Cuestionario_SUS_PuntoCafe_Umai.pdf)
 
 
 ### 4.d A/B Testing
