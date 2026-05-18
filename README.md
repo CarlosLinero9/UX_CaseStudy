@@ -522,7 +522,7 @@ Comparando ambos casos, **Punto Café obtiene una puntuación media superior**, 
 - Marta (caso B): "La interfaz es atractiva, pero en algunos momentos he dudado sobre dónde encontrar cierta información."
 - Diego (caso B): "La página me parece fácil de usar y visualmente llamativa, aunque algunos elementos podrían destacar más."
 
-**Enlace al pdf**: [SUS](P4/3-CuestionarioSUS/Cuestionario_SUS_PuntoCafe_Umai.pdf)
+**Enlace al pdf**: [SUS](P4/3-Cuestionario/Cuestionario_SUS_PuntoCafe_Umai.pdf)
 
 
 ### 4.d A/B Testing
