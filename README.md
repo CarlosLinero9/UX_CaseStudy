@@ -465,17 +465,38 @@ Consultar nuestro Case Study [aquí](https://github.com/CarlosLinero9/UX_CaseStu
 
 Para la evaluación se comparan dos casos:
 
-- **Caso A:** Punto Café, nuestra propuesta de aplicación web para una cafetería de especialidad. Permite consultar productos, ver cafés, localizar tiendas y realizar un proceso de compra o reserva.
-- **Caso B:** [Umai! 旨い](https://github.com/DeltaCeleste/Midas), caso asignado para la comparación A/B Testing. Se trata de una aplicación web para un restaurante japonés tematizado en la cultura y gastronomía de Japón.
+- **Caso A:** Punto Café, nuestra propuesta de aplicación web para una cafetería de especialidad.
+- **Caso B:** [Umai! 旨い](https://github.com/DeltaCeleste/Midas), proyecto asignado para la comparación, centrado en un restaurante japonés tematizado en la cultura y gastronomía de Japón.
 
-Se han seleccionado 4 usuarios ficticios para realizar las pruebas, asignando 2 usuarios al Caso A y 2 usuarios al Caso B. Se busca que los perfiles sean variados en edad, experiencia tecnológica y forma de navegar, para poder detectar posibles problemas de comprensión, accesibilidad y usabilidad.
+Siguiendo las indicaciones de la práctica, se plantea un reclutamiento de **10 participantes**, asignando **5 usuarios al Caso A** y **5 usuarios al Caso B**. Los perfiles seleccionados combinan distintas edades, niveles de experiencia tecnológica y formas de navegación, con el objetivo de observar problemas de usabilidad, comprensión, navegación y jerarquía visual.
 
 | Usuarios | Sexo/Edad | Ocupación | Exp.TIC | Personalidad | Plataforma | Caso |
 | -------- | --------- | --------- | ------- | ------------- | ---------- | ---- |
 | Laura | M / 21 | Estudiante universitaria | Alta | Visual y curiosa | Web | A |
 | Antonio | H / 52 | Administrativo | Media | Práctico e impaciente | Móvil | A |
+| Inés | M / 22 | Estudiante | Media | Organizada y observadora | Móvil | A |
+| Álvaro | H / 32 | Técnico freelance | Alta | Directo y orientado a tareas | Web | A |
+| Carmen | M / 45 | Trabajadora autónoma | Baja | Cauta y poco habituada a compras online | Móvil | A |
 | Marta | M / 34 | Profesora | Media | Reflexiva y organizada | Web | B |
 | Diego | H / 19 | Estudiante de grado | Alta | Impulsivo y rápido navegando | Móvil | B |
+| Paula | M / 27 | Diseñadora | Alta | Visual y crítica con la estética | Web | B |
+| Sergio | H / 41 | Comercial | Media | Práctico y poco paciente | Móvil | B |
+| Nuria | M / 56 | Empleada pública | Baja | Cautelosa y necesita instrucciones claras | Web | B |
+
+#### Posibles situaciones conflictivas
+
+| Usuario | Posible situación conflictiva |
+| ------- | ----------------------------- |
+| Laura | Puede centrarse más en la estética de Punto Café que en completar la tarea principal. |
+| Antonio | Puede tener dificultades si el proceso en móvil requiere demasiados pasos. |
+| Inés | Puede necesitar confirmar precios, horarios o información del local antes de avanzar. |
+| Álvaro | Puede abandonar rápido si no encuentra la información práctica en pocos clics. |
+| Carmen | Puede necesitar más ayuda contextual durante el proceso de compra. |
+| Marta | Puede dedicar más tiempo a comprender la organización de Umai! antes de actuar. |
+| Diego | Puede navegar demasiado rápido y saltarse información importante. |
+| Paula | Puede fijarse más en la parte visual que en la funcionalidad real de la interfaz. |
+| Sergio | Puede frustrarse si la reserva o la carta no son inmediatas. |
+| Nuria | Puede tener dificultades si los botones, filtros o formularios no son suficientemente claros. |
 
 #### Posibles situaciones conflictivas
 
@@ -506,6 +527,12 @@ Por último, se utilizará el **checklist de la P1** como revisión previa. Este
 ![Método UX](img/Survey.png) 
 ----
 
+![SUS](P4/3-Cuestionario/Cuestionario_SUS_PuntoCafe_Umai.png)
+
+Como parte de la evaluación de usabilidad se ha utilizado el **cuestionario SUS (System Usability Scale)**. Este cuestionario permite obtener una valoración numérica de la usabilidad percibida por los usuarios a partir de 10 afirmaciones puntuadas del 1 al 5.
+
+En este caso, se ha aplicado el cuestionario a una muestra inicial de usuarios para comparar el **Caso A: Punto Café** y el **Caso B: Umai! 旨い**. Aunque el diseño completo del experimento contempla **10 participantes** —5 usuarios para el Caso A y 5 usuarios para el Caso B—, la hoja incluida recoge una **muestra piloto de 4 usuarios**, con 2 usuarios por cada caso. Esta muestra se utiliza como evidencia inicial para comparar la percepción de usabilidad entre ambas propuestas.
+
 **Resultados**
 
 En el **Caso A**, correspondiente a **Punto Café**, se ha obtenido una media de **81,3 puntos**, lo que sitúa el resultado dentro de la categoría **aceptable tipo B / excelente**. La valoración general es positiva, especialmente en la claridad visual, la facilidad para localizar productos y la sensación de seguridad durante la navegación. Aun así, el resultado de Antonio es algo más bajo que el de Laura, por lo que se puede observar que la experiencia podría mejorar en dispositivos móviles o para usuarios que prefieren procesos más directos.
@@ -513,7 +540,6 @@ En el **Caso A**, correspondiente a **Punto Café**, se ha obtenido una media de
 En el **Caso B**, correspondiente a **Umai! 旨い**, la media obtenida ha sido de **75 puntos**, por lo que se considera un resultado **aceptable tipo C**. La interfaz supera el umbral de aceptación y resulta funcional para los usuarios, aunque las puntuaciones muestran que algunos elementos pueden generar más dudas. En especial, Marta ha obtenido una puntuación más ajustada, lo que indica que la navegación o la jerarquía de información podrían reforzarse para que las secciones importantes sean más fáciles de identificar.
 
 Comparando ambos casos, **Punto Café obtiene una puntuación media superior**, por lo que los usuarios lo perciben como una interfaz algo más clara y sencilla. Sin embargo, ambos proyectos se mantienen dentro de un rango aceptable de usabilidad, por lo que las dos propuestas cumplen los objetivos básicos de la evaluación.
-
 
 **Opiniones**
 
@@ -523,6 +549,8 @@ Comparando ambos casos, **Punto Café obtiene una puntuación media superior**, 
 - Diego (caso B): "La página me parece fácil de usar y visualmente llamativa, aunque algunos elementos podrían destacar más."
 
 **Enlace al pdf**: [SUS](P4/3-Cuestionario/Cuestionario_SUS_PuntoCafe_Umai.pdf)
+
+**Enlace al Excel**: [Cuestionario SUS](P4/3-Cuestionario/Cuestionario_SUS_PuntoCafe_Umai.xlsx)
 
 
 ### 4.d A/B Testing
