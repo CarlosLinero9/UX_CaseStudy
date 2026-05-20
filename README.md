@@ -557,42 +557,73 @@ Comparando ambos casos, **Punto Café obtiene una puntuación media superior**, 
 ![Método UX](img/ABtesting.png) 
 -----
 
-Para la prueba A/B Testing se han comparado dos propuestas:
+Para la prueba **A/B Testing** se han comparado dos propuestas:
 
 - **Caso A:** Punto Café, nuestra propuesta de aplicación web para una cafetería de especialidad.
-- **Caso B:** Umai! 旨い, proyecto asignado para la comparación, centrado en un restaurante japonés.
+- **Caso B:** [Umai! 旨い](https://github.com/DeltaCeleste/Midas), proyecto asignado para la comparación, centrado en un restaurante japonés.
 
-En un primer momento se valoró utilizar Maze para obtener métricas automáticas de navegación, como duración media, tasa de éxito, abandonos o clics erróneos. Sin embargo, al no disponer de un prototipo navegable completo del Caso B, se decidió realizar la comparación de forma manual a partir de las pantallas y recursos disponibles de ambos proyectos.
+El objetivo de esta prueba es comprobar en cuál de las dos interfaces resulta más sencillo completar tareas básicas de navegación. Para ello se han planteado tareas equivalentes en ambos casos, relacionadas con la localización de productos o platos, la búsqueda de información y el inicio de una acción principal.
 
-La prueba se ha organizado en torno a tres tareas equivalentes para los dos casos. El objetivo es observar en cuál de las dos interfaces resulta más sencillo completar acciones básicas, como encontrar información, consultar productos o iniciar un proceso principal.
+La prueba se ha realizado mediante **Maze**, obteniendo métricas como duración media, tasa de éxito, abandono y porcentaje de clics erróneos. En ambos casos participaron **5 usuarios**, siguiendo la planificación del experimento.
+
+#### Enlaces a los tests
+
+- **Caso A - Punto Café:** [Maze Punto Café](https://t.maze.co/536328614)
+- **Caso B - Umai! 旨い:** [Maze Umai](https://t.maze.co/538475165)
+
+#### Tareas planteadas
 
 | Prueba | Caso A: Punto Café | Caso B: Umai! 旨い |
 | ------ | ------------------ | ------------------ |
-| **Tarea 1: localizar un producto o elemento de la carta** | Los usuarios identifican con facilidad la zona de productos. La sección de cafés resulta clara y el botón principal ayuda a avanzar. | La carta o contenido gastronómico se reconoce, aunque la estética y la cantidad de elementos visuales pueden hacer que el usuario tarde más en orientarse. |
-| **Tarea 2: consultar información del local** | La información sobre tienda o punto de venta se encuentra de forma bastante directa. La navegación es sencilla y no requiere muchos pasos. | La información del restaurante puede localizarse, pero necesita una exploración algo mayor por parte del usuario. |
-| **Tarea 3: iniciar una compra o reserva** | El flujo principal se entiende correctamente. Los botones de acción tienen buena visibilidad y el usuario puede avanzar sin demasiadas dudas. | La acción principal también está presente, aunque en algunos momentos puede quedar menos destacada frente al diseño visual general. |
+| **Tarea 1: localizar producto/carta** | Buscar un producto de café y acceder a su información. | Buscar un plato de la carta y revisar su información. |
+| **Tarea 2: consultar información** | Consultar información sobre un local o punto de venta. | Consultar información sobre el restaurante. |
+| **Tarea 3: iniciar acción principal** | Iniciar el proceso de compra. | Iniciar una reserva. |
 
-<!--
-#### Resultados obtenidos
+#### Resultados del Caso A: Punto Café
+
+| Prueba | Duración media | Tasa de éxito | Abandono | Clics erróneos |
+| ------ | -------------- | ------------- | -------- | -------------- |
+| Buscar un producto de café | 18.0 s | 100% | 0% | 28.6% |
+| Consultar información sobre un local | 10.8 s | 100% | 0% | 61.1% |
+| Iniciar el proceso de compra | 6.1 s | 100% | 0% | 11.8% |
+
+En el Caso A, los usuarios completaron correctamente las tres tareas, obteniendo un **100% de éxito** y **0% de abandono**. La tarea más rápida fue iniciar el proceso de compra, con una duración media de 6.1 segundos. Sin embargo, la tarea de consultar información sobre un local tuvo un porcentaje elevado de clics erróneos, lo que indica que algunos usuarios tuvieron dudas al localizar esa información.
+
+**Enlace al informe Maze:** [Maze Report - Punto Café](P4/4-ABTesting/Maze_Report_PuntoCafe.pdf)
+
+#### Resultados del Caso B: Umai! 旨い
+
+| Prueba | Duración media | Tasa de éxito | Abandono | Clics erróneos |
+| ------ | -------------- | ------------- | -------- | -------------- |
+| Buscar un plato de la carta | 15.5 s | 100% | 0% | 37.5% |
+| Consultar información sobre el restaurante | 14.2 s | 100% | 0% | 48.0% |
+| Iniciar una reserva | 6.1 s | 100% | 0% | 16.7% |
+
+En el Caso B, los usuarios también completaron correctamente las tres tareas, con **100% de éxito** y **0% de abandono**. La tarea más rápida fue iniciar una reserva, con una duración media de 6.1 segundos. Aun así, las tareas de buscar un plato y consultar información del restaurante presentan más clics erróneos que la tarea de reserva, lo que indica que algunos elementos de navegación o información podrían destacarse mejor.
+
+**Enlace al informe Maze:** [Maze Report - Umai](P4/4-ABTesting/Maze_Report_Umai.pdf)
+
+#### Comparación global
 
 | Métrica | Caso A: Punto Café | Caso B: Umai! 旨い |
 | ------- | ------------------ | ------------------ |
-| Tareas completadas | 6/6 | 5/6 |
-| Pantalla objetivo alcanzada | 6/6 | 5/6 |
-| Recorrido sin errores importantes | 5/6 | 4/6 |
-| Dudas observadas | Bajas | Medias |
-| Valoración general | Más directa y clara | Más visual, pero algo menos inmediata |
+| Participantes | 5 | 5 |
+| Tareas completadas | 15/15 | 15/15 |
+| Tasa de éxito media | 100% | 100% |
+| Abandono medio | 0% | 0% |
+| Duración media aproximada | 11.6 s | 11.9 s |
+| Clics erróneos medios | 33.8% | 34.1% |
 
 #### Resultado global
 
-A partir de la comparación realizada, el **Caso A: Punto Café** se considera ligeramente más usable para las tareas planteadas. Los usuarios pueden identificar antes las acciones principales y completar los recorridos con menos dudas.
+Los resultados obtenidos son bastante similares en ambos casos. Tanto **Punto Café** como **Umai! 旨い** alcanzan una tasa de éxito del **100%** y no presentan abandono durante las tareas, por lo que ambas interfaces permiten completar los objetivos planteados.
 
-El **Caso B: Umai! 旨い** también presenta una propuesta funcional y atractiva, pero algunos elementos visuales pueden competir con la información principal, haciendo que ciertas acciones requieran más exploración.
+Sin embargo, si se comparan las métricas de forma global, **Punto Café obtiene una ligera ventaja**, ya que presenta una duración media algo menor y un porcentaje medio de clics erróneos ligeramente inferior. Esto indica que, aunque ambos casos son funcionales, Punto Café resulta un poco más directo para las tareas evaluadas.
 
-Por tanto, el resultado agregado indica que **Punto Café es el caso más usable en esta prueba**, especialmente por la claridad de su navegación, la visibilidad de sus botones principales y la organización de la información.
+El **Caso B: Umai! 旨い** destaca por su atractivo visual y por una navegación que permite completar correctamente las acciones principales, pero algunos elementos pueden generar más exploración o clics innecesarios, especialmente en la búsqueda de información.
 
->>> Los resultados de un A/B testing con 3 pruebas y 2 casos o alternativas daría como resultado una tabla de 3 filas y 2 columnas, además de un resultado agregado global. Especifique con claridad el resultado: qué caso es más usable, A o B?
--->
+Por tanto, el resultado agregado indica que **el Caso A: Punto Café es ligeramente más usable en esta prueba**, aunque la diferencia entre ambos casos no es muy grande.
+
 ### 4.e Aplicación del método Eye Tracking 
 ![Método UX](img/eye-tracking.png)
 ----
