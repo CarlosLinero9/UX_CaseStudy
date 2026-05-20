@@ -1,22 +1,31 @@
 # Documentación de componentes UI · Punto Café
 
-La documentación se ha realizado de forma textual en lugar de Storybook, ya que el guion actualizado de la práctica prioriza la evaluación y evita exigir Storybook como entrega obligatoria.
+La documentación de componentes se ha realizado de forma textual, tomando como referencia la versión React de **Punto Café**. El objetivo es identificar los componentes reutilizables de la interfaz y explicar su función dentro del sistema.
 
-| Componente | Uso | Evidencia en React |
-| ---------- | --- | ------------------ |
-| Header | Cabecera con identidad y navegación principal. | `src/components/Header.jsx` |
-| ProductCard | Tarjeta de producto con imagen, precio, etiquetas y acciones. | `src/components/ProductCard.jsx` |
-| LocationCard | Tarjeta de local con imagen, dirección y horario. | `src/components/LocationCard.jsx` |
-| Botón principal | Acciones críticas como ver productos, añadir al carrito o finalizar pedido. | `.btn` en `src/styles.css` |
-| Formulario | Campos de pago, dirección o datos de usuario. | Pantalla `Checkout` en `src/App.jsx` |
-| Resumen de carrito | Muestra productos, subtotal, envío y total. | Pantalla `Cart` en `src/App.jsx` |
-| Filtros/buscador | Facilita la exploración de la tienda. | Pantalla `Shop` en `src/App.jsx` |
+## Componentes principales
 
-## Relación con el diseño atómico
+| Componente | Uso en la interfaz |
+| ---------- | ------------------ |
+| `Header` | Cabecera superior con navegación, identidad visual y acceso de usuario. |
+| `GoldButton` | Botón principal para acciones importantes como ver productos, añadir al carrito o finalizar pedido. |
+| `ProductCard` | Tarjeta de producto con imagen, nombre, tipo de café, precio y acceso al detalle. |
+| `LocalCard` | Tarjeta de local con imagen, nombre y horario. |
+| `CartItem` | Elemento del carrito con producto, cantidad y controles de modificación. |
+| `InputBox` | Campo de formulario reutilizado en cuenta, dirección y pago. |
+| `PaymentCard` | Tarjeta visual para métodos de pago. |
+| `OrderCard` | Tarjeta de pedido dentro del área de usuario. |
+| `FilterOption` | Opción seleccionable dentro de la pantalla de filtros. |
+| `FloatingNav` | Navegación inferior para cambiar entre secciones principales. |
 
-- **Átomos:** botones, inputs, etiquetas, enlaces y badges.
-- **Moléculas:** tarjetas de producto, tarjetas de local, filas de carrito y grupos de filtros.
-- **Organismos:** cabecera, hero, tienda, resumen de compra y área de cuenta.
-- **Pantallas:** inicio, tienda, detalle, carrito, pago, locales y cuenta.
+## Relación con diseño atómico
 
-Esta documentación permite identificar los elementos reutilizables de la interfaz aunque no se haya montado un Storybook completo.
+| Nivel | Elementos |
+| ----- | --------- |
+| Átomos | Botones, iconos, textos, inputs y enlaces. |
+| Moléculas | Tarjetas de producto, campos agrupados, opciones de filtro y elementos de carrito. |
+| Organismos | Cabecera, tienda, carrito, bloque de cuenta y navegación inferior. |
+| Pantallas | Inicio, tienda, detalle de producto, carrito, pago, cuenta, pedidos y direcciones. |
+
+## Posible ampliación
+
+En una fase posterior, los componentes podrían separarse en archivos individuales y documentarse de forma aislada mediante Storybook. Esto facilitaría probar variantes, estados y comportamientos de cada componente de manera independiente.
