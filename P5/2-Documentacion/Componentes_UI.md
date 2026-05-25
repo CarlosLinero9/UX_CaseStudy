@@ -25,7 +25,3 @@ La documentación de componentes se ha realizado de forma textual, tomando como 
 | Moléculas | Tarjetas de producto, campos agrupados, opciones de filtro y elementos de carrito. |
 | Organismos | Cabecera, tienda, carrito, bloque de cuenta y navegación inferior. |
 | Pantallas | Inicio, tienda, detalle de producto, carrito, pago, cuenta, pedidos y direcciones. |
-
-## Posible ampliación
-
-En una fase posterior, los componentes podrían separarse en archivos individuales y documentarse de forma aislada mediante Storybook. Esto facilitaría probar variantes, estados y comportamientos de cada componente de manera independiente.
