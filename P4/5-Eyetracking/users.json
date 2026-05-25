@@ -1,0 +1,211 @@
+[
+  {
+    "username": "User1",
+    "edad": "21",
+    "sexo": "M",
+    "grupo": "B",
+    "lugar": "UGR-DIU",
+    "fecha": "2026-05-25",
+    "hora_fin": "11:06:06",
+    "timestamp": 1779699966324,
+    "sitioFinal": 1
+  },
+  {
+    "username": "User1",
+    "edad": "21",
+    "sexo": "M",
+    "grupo": "B",
+    "lugar": "UGR-DIU",
+    "fecha": "2026-05-25",
+    "hora_fin": "11:07:58",
+    "timestamp": 1779700078486,
+    "sitioFinal": 2
+  },
+  {
+    "username": "User1",
+    "edad": "21",
+    "sexo": "M",
+    "grupo": "B",
+    "lugar": "UGR-DIU",
+    "fecha": "2026-05-25",
+    "hora_fin": "11:16:36",
+    "timestamp": 1779700596134,
+    "sitioFinal": 3
+  },
+  {
+    "username": "User1",
+    "edad": "21",
+    "sexo": "M",
+    "grupo": "B",
+    "lugar": "UGR-DIU",
+    "fecha": "2026-05-25",
+    "hora_fin": "11:18:04",
+    "timestamp": 1779700684818,
+    "sitioFinal": 4
+  },
+  {
+    "username": "User1",
+    "edad": "21",
+    "sexo": "M",
+    "grupo": "B",
+    "lugar": "UGR-DIU",
+    "fecha": "2026-05-25",
+    "hora_fin": "11:20:14",
+    "timestamp": 1779700814336,
+    "sitioFinal": 5
+  },
+  {
+    "username": "User1",
+    "edad": "21",
+    "sexo": "M",
+    "grupo": "B",
+    "lugar": "UGR-DIU",
+    "fecha": "2026-05-25",
+    "hora_fin": "11:21:16",
+    "timestamp": 1779700876441,
+    "sitioFinal": 6
+  },
+  {
+    "username": "User2",
+    "edad": "19",
+    "sexo": "F",
+    "grupo": "B",
+    "lugar": "UGR-DIU",
+    "fecha": "2026-05-25",
+    "hora_fin": "11:28:00",
+    "timestamp": 1779701280142,
+    "sitioFinal": 1
+  },
+  {
+    "username": "User2",
+    "edad": "19",
+    "sexo": "F",
+    "grupo": "B",
+    "lugar": "UGR-DIU",
+    "fecha": "2026-05-25",
+    "hora_fin": "11:29:38",
+    "timestamp": 1779701378332,
+    "sitioFinal": 2
+  },
+  {
+    "username": "User2",
+    "edad": "19",
+    "sexo": "F",
+    "grupo": "B",
+    "lugar": "UGR-DIU",
+    "fecha": "2026-05-25",
+    "hora_fin": "11:30:55",
+    "timestamp": 1779701455741,
+    "sitioFinal": 3
+  },
+  {
+    "username": "User2",
+    "edad": "19",
+    "sexo": "F",
+    "grupo": "B",
+    "lugar": "UGR-DIU",
+    "fecha": "2026-05-25",
+    "hora_fin": "11:32:17",
+    "timestamp": 1779701537363,
+    "sitioFinal": 4
+  },
+  {
+    "username": "User2",
+    "edad": "19",
+    "sexo": "F",
+    "grupo": "B",
+    "lugar": "UGR-DIU",
+    "fecha": "2026-05-25",
+    "hora_fin": "11:33:47",
+    "timestamp": 1779701627386,
+    "sitioFinal": 5
+  },
+  {
+    "username": "User2",
+    "edad": "19",
+    "sexo": "F",
+    "grupo": "B",
+    "lugar": "UGR-DIU",
+    "fecha": "2026-05-25",
+    "hora_fin": "11:35:25",
+    "timestamp": 1779701725448,
+    "sitioFinal": 6
+  },
+  {
+    "username": "User3",
+    "edad": "22",
+    "sexo": "M",
+    "grupo": "B",
+    "lugar": "UGR-DIU",
+    "fecha": "2026-05-25",
+    "hora_fin": "11:43:30",
+    "timestamp": 1779702210806,
+    "sitioFinal": 1
+  },
+  {
+    "username": "User3",
+    "edad": "22",
+    "sexo": "M",
+    "grupo": "B",
+    "lugar": "UGR-DIU",
+    "fecha": "2026-05-25",
+    "hora_fin": "11:44:45",
+    "timestamp": 1779702285569,
+    "sitioFinal": 2
+  },
+  {
+    "username": "User3",
+    "edad": "22",
+    "sexo": "?",
+    "grupo": "B",
+    "lugar": "UGR-DIU",
+    "fecha": "2026-05-25",
+    "hora_fin": "11:45:49",
+    "timestamp": 1779702349343,
+    "sitioFinal": 3
+  },
+  {
+    "username": "User3",
+    "edad": "22",
+    "sexo": "M",
+    "grupo": "B",
+    "lugar": "UGR-DIU",
+    "fecha": "2026-05-25",
+    "hora_fin": "11:46:51",
+    "timestamp": 1779702411211,
+    "sitioFinal": 4
+  },
+  {
+    "username": "User3",
+    "edad": "22",
+    "sexo": "M",
+    "grupo": "B",
+    "lugar": "UGR-DIU",
+    "fecha": "2026-05-25",
+    "hora_fin": "11:47:58",
+    "timestamp": 1779702478902,
+    "sitioFinal": 5
+  },
+  {
+    "username": "User3",
+    "edad": "22",
+    "sexo": "M",
+    "grupo": "B",
+    "lugar": "UGR-DIU",
+    "fecha": "2026-05-25",
+    "hora_fin": "11:47:58",
+    "timestamp": 1779702478934,
+    "sitioFinal": 5
+  },
+  {
+    "username": "User3",
+    "edad": "22",
+    "sexo": "M",
+    "grupo": "B",
+    "lugar": "UGR-DIU",
+    "fecha": "2026-05-25",
+    "hora_fin": "11:49:15",
+    "timestamp": 1779702555307,
+    "sitioFinal": 6
+  }
+]

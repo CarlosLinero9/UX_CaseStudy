@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1,
+    "nombre": "POI_1",
+    "x": 443,
+    "y": 151,
+    "site": 4,
+    "timestamp": 1779699716894
+  },
+  {
+    "id": 2,
+    "nombre": "POI_2",
+    "x": 446,
+    "y": 214,
+    "site": 4,
+    "timestamp": 1779699717365
+  },
+  {
+    "id": 3,
+    "nombre": "POI_3",
+    "x": 455,
+    "y": 290,
+    "site": 4,
+    "timestamp": 1779699717889
+  },
+  {
+    "id": 4,
+    "nombre": "POI_4",
+    "x": 474,
+    "y": 356,
+    "site": 4,
+    "timestamp": 1779699718350
+  },
+  {
+    "id": 5,
+    "nombre": "POI_5",
+    "x": 372,
+    "y": 62,
+    "site": 4,
+    "timestamp": 1779699719650
+  },
+  {
+    "id": 6,
+    "nombre": "POI_6",
+    "x": 446,
+    "y": 61,
+    "site": 4,
+    "timestamp": 1779699720020
+  },
+  {
+    "id": 7,
+    "nombre": "POI_7",
+    "x": 562,
+    "y": 62,
+    "site": 4,
+    "timestamp": 1779699720751
+  },
+  {
+    "id": 8,
+    "nombre": "POI_8",
+    "x": 501,
+    "y": 60,
+    "site": 4,
+    "timestamp": 1779699721253
+  },
+  {
+    "id": 9,
+    "nombre": "POI_9",
+    "x": 467,
+    "y": 18,
+    "site": 4,
+    "timestamp": 1779699721688
+  },
+  {
+    "id": 10,
+    "nombre": "POI_10",
+    "x": 912,
+    "y": 28,
+    "site": 4,
+    "timestamp": 1779699722539
+  },
+  {
+    "id": 11,
+    "nombre": "POI_11",
+    "x": 33,
+    "y": 29,
+    "site": 4,
+    "timestamp": 1779699723447
+  },
+  {
+    "id": 12,
+    "nombre": "POI_12",
+    "x": 222,
+    "y": 526,
+    "site": 4,
+    "timestamp": 1779699724186
+  },
+  {
+    "id": 13,
+    "nombre": "POI_13",
+    "x": 423,
+    "y": 534,
+    "site": 4,
+    "timestamp": 1779699724706
+  },
+  {
+    "id": 14,
+    "nombre": "POI_14",
+    "x": 657,
+    "y": 536,
+    "site": 4,
+    "timestamp": 1779699725356
+  }
+]
