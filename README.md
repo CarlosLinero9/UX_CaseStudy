@@ -742,7 +742,7 @@ El desarrollo de las prácticas nos ha permitido recorrer un proceso completo de
 
 En general, **Punto Café** se ha planteado como una plataforma clara y guiada para consultar información de cafeterías y comprar café online. La fase de diseño nos permitió definir una interfaz mobile-first basada en componentes reutilizables, como tarjetas, botones, formularios y filtros.
 
-La comparación con **Umai! 旨い** nos ha ayudado a comprobar la importancia de equilibrar estética y funcionalidad. Aunque ambos casos permiten completar las tareas planteadas, Punto Café obtiene una ligera ventaja en claridad de navegación.
+La comparación con **Umai! 旨い** nos ha ayudado a comprobar la importancia de equilibrar estética y funcionalidad. Aunque ambos casos permiten completar las tareas planteadas, Punto Café obtiene una ligera ventaja en claridad de navegación mientras que Umai! 旨い tiene una interfaz más cuidada.
 
 Como valoración final, consideramos que el resultado es positivo. El proyecto podría mejorar con más pruebas de usuarios, una revisión más profunda de accesibilidad y una versión React más completa. Estas prácticas nos han servido para entender que una buena interfaz no solo debe ser atractiva, sino también clara, útil y fácil de evaluar.
 
