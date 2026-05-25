@@ -640,7 +640,7 @@ En cuanto al reclutamiento de usuarios, hemos realizado el experimento con 3 usu
 
 Hemos utilizado la herramienta GazeMapping, creada y proporcionada en las prácticas de la asignatura por el profesor Miguel Gea, que permite diseñar pruebas de usabilidad con Eye Tracking basado en webcam utilizando la librería WebGazer.js de Univ. Brown. Esta herramienta nos permite generar heatmaps (mapas de calor), donde se muestran dónde se concentró más la atención de los usuarios (las zonas de color rojo son donde la mirada permaneció más tiempo). Y antes de esto, también permite registrar los gaze plots, que indican el orden secuencial de los puntos de fijación (el camino que siguió el ojo), los cuales el usuario va introduciendo manualmente a la hora e realizar el experimento.
 
-![experimento](./P4/5-Eyetracking/analisis_sitio1_1779701896061.png)
+![experimento](P4/5-Eyetracking/analisis_sitio1_1779701896061.jpg)
 
 
 ### 4.f Usability Report de B
