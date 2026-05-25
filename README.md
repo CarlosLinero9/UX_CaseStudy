@@ -658,7 +658,7 @@ Se ha elaborado un **Usability Report** del **Caso B: Umai! 旨い**, asignado a
 | ------ | ------------------- |
 | A/B Testing | Ambos casos completan las tareas, aunque Punto Café resulta ligeramente más directo. |
 | SUS | Umai! obtiene una valoración aceptable, pero algo inferior a Punto Café. |
-| Eye Tracking | Se plantea el análisis visual sobre inicio, carta y reservas, detectando posible competencia entre elementos decorativos y acciones principales. |
+| Eye Tracking | Se plantea el análisis visual sobre inicio, carta, reservas y cuenta, detectando posible competencia entre elementos decorativos y acciones principales. |
 
 #### Debilidades detectadas
 
