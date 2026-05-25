@@ -628,13 +628,19 @@ Por tanto, el resultado agregado indica que **el Caso A: Punto Café es ligerame
 ![Método UX](img/eye-tracking.png)
 ----
 
->>> Indica cómo se diseña el experimento y se reclutan los usuarios. Explica la herramienta / uso de gazerecorder.com u otra similar. Aplíquese únicamente al caso B.
+Con la aplicación del método de eye-tracking, pretendemos observar cómo el usuario interactúa con el prototipo diseñado para la página web del caso B. Con este experimento, comprobaremos si los botones utilizados son lo suficientemente visibles en la página principal o en el resto de páginas o cuánto tiempo tardará el usuario en desplazarse y utilizar a través de las mismas.
 
+Hemos asignado la tarea de encontrar los diferentes botones o enlaces que más destaquen al usuario para así poder tener una noción de si están cumpliendo con éxito su objetivo, o si se tratan de opciones que el usuario no tendría en cuenta. El procedimiento consta de:
+- Calibración: El usuario debe realizar una calibración previa del software para que la cámara web detecte correctamente sus pupilas.
+- Presentación: Se muestran los estímulos (las .png obtenidos de Figma).
+- Registro: El software graba las coordenadas de la mirada $(x, y)$ y de los clics en tiempo real.
+- Cierre: Breve entrevista tras el test para recopilar información relevanate del usuario (como edad o caso al que pertenece).
 
-![experimento](img/experimentoET.png)  
->>> Cambiar esta img por una de vuestro experimento. El recurso deberá estar subido a la carpeta P4/  
+En cuanto al reclutamiento de usuarios, hemos realizado el experimento con 3 usuarios (de 18 a 22 años) cuyo consentimiento para usar sus datos hemos obtenido.
 
->>> gazerecorder en versión de pruebas puede estar limitada a 3 usuarios para generar mapa de calor (crédito > 0 para que funcione) 
+Hemos utilizado la herramienta GazeMapping, creada y proporcionada en las prácticas de la asignatura por el profesor Miguel Gea, que permite diseñar pruebas de usabilidad con Eye Tracking basado en webcam utilizando la librería WebGazer.js de Univ. Brown. Esta herramienta nos permite generar heatmaps (mapas de calor), donde se muestran dónde se concentró más la atención de los usuarios (las zonas de color rojo son donde la mirada permaneció más tiempo). Y antes de esto, también permite registrar los gaze plots, que indican el orden secuencial de los puntos de fijación (el camino que siguió el ojo), los cuales el usuario va introduciendo manualmente a la hora e realizar el experimento.
+
+![experimento](P4/5-Eyetracking/data/analisis_sitio1_1779701896061.png)
 
 
 ### 4.f Usability Report de B
